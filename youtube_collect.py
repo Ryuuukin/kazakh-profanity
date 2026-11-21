@@ -8,9 +8,6 @@
 
 Примеры:
   export YT_API_KEY=ваш_ключ
-  python youtube_collect.py collect --out raw/comments.jsonl
-  python youtube_collect.py collect --video-ids my_videos.txt --out raw/comments.jsonl
-  python youtube_collect.py rehydrate --ids data/comment_ids.txt --out raw/rehydrated.jsonl
 
 Что НЕ сохраняется: имя автора, ID канала автора, аватар, ссылка на профиль.
 В тексте маскируются e-mail, телефоны, ссылки и @упоминания.

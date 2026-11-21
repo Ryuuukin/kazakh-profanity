@@ -1,0 +1,73 @@
+source_id,id,final_label,reason
+pla092196pla,kz00451,1,masked «бл*» missed by regex
+pla120558pla,kz00698,1,spelling variant «блəəə»
+pla010437pla,kz00695,1,"жалап/жәлеп/jalap used as noun (prostitute / insult), not the verb «licking»"
+pla020607pla,kz01106,1,"жалап/жәлеп/jalap used as noun (prostitute / insult), not the verb «licking»"
+pla092262pla,kz01265,1,"жалап/жәлеп/jalap used as noun (prostitute / insult), not the verb «licking»"
+pla135066pla,kz01308,1,"жалап/жәлеп/jalap used as noun (prostitute / insult), not the verb «licking»"
+pla091996pla,kz01537,1,"жалап/жәлеп/jalap used as noun (prostitute / insult), not the verb «licking»"
+pla078282pla,kz01806,1,"жалап/жәлеп/jalap used as noun (prostitute / insult), not the verb «licking»"
+pla108365pla,kz02015,1,"жалап/жәлеп/jalap used as noun (prostitute / insult), not the verb «licking»"
+pla028430pla,kz02041,1,"жалап/жәлеп/jalap used as noun (prostitute / insult), not the verb «licking»"
+pla121211pla,kz02295,1,"жалап/жәлеп/jalap used as noun (prostitute / insult), not the verb «licking»"
+pla118476pla,kz02637,1,"жалап/жәлеп/jalap used as noun (prostitute / insult), not the verb «licking»"
+pla002489pla,kz02716,1,"жалап/жәлеп/jalap used as noun (prostitute / insult), not the verb «licking»"
+pla091974pla,kz03832,1,"жалап/жәлеп/jalap used as noun (prostitute / insult), not the verb «licking»"
+pla064961pla,kz04161,1,"жалап/жәлеп/jalap used as noun (prostitute / insult), not the verb «licking»"
+pla120357pla,kz02539,1,"жалап/жәлеп/jalap used as noun (prostitute / insult), not the verb «licking»"
+pla129089pla,kz01727,1,«көті боқтар» — vulgar
+pla113016pla,kz03433,1,«көті боқтар» — vulgar
+pla064981pla,kz02155,1,"«қотағым», «далбаёб» missed by regex (ғ-form)"
+pla111782pla,kz02230,1,«далбаеб» (долбоёб) missed by regex
+pla133828pla,kz02669,1,"«амдар», «ташағы», «коток»"
+pla030728pla,kz02929,1,"«боқ та келмейді» — «боқ» = shit, vulgar"
+pla091763pla,kz02933,1,«көттерің» (plural of көт) — vulgar
+pla090160pla,kz03666,1,«көттерің» (plural of көт) — vulgar
+pla100629pla,kz01974,1,«амн шығарамн» — vulgar threat with «ам»
+pla077162pla,kz00249,0,"«боқ мұрын» = snotty (mild insult, not obscene)"
+map003802map,kz01029,0,"«боқ ауыз» = foul-mouthed (describes someone, no obscene word)"
+gis000899gis,kz02103,0,"«боқ ауыз» = foul-mouthed (describes someone, no obscene word)"
+pla081410pla,kz03533,0,"«боқ ауыз» = foul-mouthed (describes someone, no obscene word)"
+pla061339pla,kz01088,0,«боқ сөз» = swear words (meta-mention)
+pla128292pla,kz02656,0,«боқ сөз» = swear words (meta-mention)
+map003388map,kz02442,0,"«мұрын боқ» = nasal mucus, literal"
+map003367map,kz03599,0,"«мұрын боқ» = nasal mucus, literal"
+pla089195pla,kz03481,0,«Huyndai» = car brand misspelled
+pla015656pla,kz00004,0,keyboard spam; regex collapsed repeated letters into «қотақ»
+pla034679pla,kz00610,1,abbreviation «шшс»/«зб» of obscene phrase (unambiguous)
+pla118024pla,kz00522,1,abbreviation «шшс»/«зб» of obscene phrase (unambiguous)
+pla078416pla,kz00609,1,abbreviation «шшс»/«зб» of obscene phrase (unambiguous)
+pla115582pla,kz00619,1,«зайбал/заибал/зай бал» (заебал) missed by regex
+pla010926pla,kz02334,1,«зайбал/заибал/зай бал» (заебал) missed by regex
+pla034272pla,kz02513,1,«зайбал/заибал/зай бал» (заебал) missed by regex
+pla010914pla,kz02824,1,«зайбал/заибал/зай бал» (заебал) missed by regex
+pla092579pla,kz03920,1,«зайбал/заибал/зай бал» (заебал) missed by regex
+pla067375pla,kz01094,1,«зайбал/заибал/зай бал» (заебал) missed by regex
+pla009944pla,kz01611,1,«зайбал/заибал/зай бал» (заебал) missed by regex
+pla034666pla,kz00961,1,«ам/амы/амдар/шешең амы» missed by regex
+pla072185pla,kz03475,1,«ам/амы/амдар/шешең амы» missed by regex
+pla123474pla,kz01648,1,«ам/амы/амдар/шешең амы» missed by regex
+pla069300pla,kz03986,1,«ам/амы/амдар/шешең амы» missed by regex
+pla090868pla,kz01844,1,«ам/амы/амдар/шешең амы» missed by regex
+pla120656pla,kz01186,1,«бла» used as «бля»
+pla111152pla,kz01206,1,«наху» missed by regex
+pla068506pla,kz01477,1,«наху» missed by regex
+pla032347pla,kz01384,1,«ёп-/иопты» missed by regex
+pla018807pla,kz00333,1,«ёп-/иопты» missed by regex
+pla072684pla,kz02872,1,«далбаёб/далбаеп/далбан» missed by regex
+pla129098pla,kz03012,1,«далбаёб/далбаеп/далбан» missed by regex
+pla119729pla,kz03928,1,«далбаёб/далбаеп/далбан» missed by regex
+pla120896pla,kz03198,1,«еба» interjection missed by regex
+pla069520pla,kz04086,1,«еба» interjection missed by regex
+pla073488pla,kz03417,1,«сукалар» (plural) missed by regex
+pla016608pla,kz03984,1,«поху» missed by regex
+pla016690pla,kz00690,1,"«қотағ-/котаг-» forms; found by regex v2 sweep, confirmed"
+pla072590pla,kz01448,1,"«қотағ-/котаг-» forms; found by regex v2 sweep, confirmed"
+pla088174pla,kz02976,1,"«амыс сігейы» found by regex v2 sweep, confirmed"
+map003826map,kz00415,1,"«көттерінен» found by regex v2 sweep, confirmed"
+pla067540pla,kz02604,EXCLUDE,unresolvable ambiguity (garbled spam / unknown nick / unclear word)
+pla072057pla,kz02049,EXCLUDE,unresolvable ambiguity (garbled spam / unknown nick / unclear word)
+pla041392pla,kz00498,EXCLUDE,unresolvable ambiguity (garbled spam / unknown nick / unclear word)
+pla088313pla,kz03103,EXCLUDE,unresolvable ambiguity (garbled spam / unknown nick / unclear word)
+pla110288pla,kz01187,EXCLUDE,unresolvable ambiguity (garbled spam / unknown nick / unclear word)
+pla121436pla,kz02284,EXCLUDE,unresolvable ambiguity (garbled spam / unknown nick / unclear word)

@@ -1,0 +1,31 @@
+{
+  "model": "TF-IDF char_wb n-grams + LogisticRegression",
+  "preprocessing": "kz_regex.normalize (lowercase, ё->е, latin look-alikes->cyrillic, leet, joined dotted letters, collapsed repeats)",
+  "tfidf": {
+    "analyzer": "char_wb",
+    "ngram_range": [
+      1,
+      4
+    ],
+    "min_df": 2,
+    "sublinear_tf": true
+  },
+  "logreg": {
+    "C": 100.0,
+    "class_weight": null,
+    "max_iter": 3000,
+    "solver": "lbfgs"
+  },
+  "threshold": 0.3,
+  "seed": 42,
+  "train_size": 4021,
+  "val_f1": 0.9659,
+  "n_features": 20595,
+  "versions": {
+    "python": "3.13.18",
+    "numpy": "2.4.6",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.6.1",
+    "joblib": "1.6.0"
+  }
+}

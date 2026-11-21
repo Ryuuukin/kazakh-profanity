@@ -1,427 +1,502 @@
-id,source_id,text,label,source,domain,rating,label_source,regex_label,regex_terms,group_id
-kz00014,pla032600pla,Қотақ бас банк таза приложения жасамайт операторлар телефон алмайды,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақ,14
-kz00016,pla002643pla,Қотақ жеме наху,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақ,16
-kz00027,pla090895pla,Каям жеген ойын шщс котакта кырмейт суканын ойыны разработчик шщс котакбас мал гнида,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:котакта,27
-kz00034,pla117238pla,Резервте тұр дейді 5күн болды уже,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,34
-kz00044,pla069943pla,👎👎👎👎👎жаман тез бастырылмайды,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,44
-kz00055,pla053414pla,Казақ тілі жоқ,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,55
-kz00064,pla134645pla,Котакбайскый екен,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:котакбайскый,64
-kz00076,pla073889pla,фу бол ойын маған ұанған жоқ қотақбасыскй ойын фри фари көшті,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақбасыскй,76
-kz00084,kas025930kas,"Керемет екен, маған ұнады, рахмет.",0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,84
-kz00094,pla077597pla,Е шешеңсигиннын оиыны котакпас елек на котак,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:котакпас,94
-kz00104,pla020162pla,Неге басқа адамға гб жіберілмейді 😤,0,kazsandra,appstore,2,regex_negative_llm_spotchecked,0,,104
-kz00114,pla079867pla,Қотақ бас шешең,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:қотақ,114
-kz00128,pla110671pla,Қотақ жеген трекинг,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақ,128
-kz00136,pla041097pla,Бля далбандар номер дұрыс емес деп шығаберсе неге осыны шығардыңдар дым байдаларың жоқ екен,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_blya:бля,136
-kz00146,pla050870pla,"Бір тапсырма берелі оның ішінде 3 сұрақ болпды делік. 2дұрыс болса 1дұрыс емес болса, барлығы дұрыс емес деп есептейді. Осылвй кете берлік. Кейін аз % алады ғой!!!!! Осымен жұмыс жасаңыздар!!!!",0,kazsandra,appstore,2,regex_negative_llm_spotchecked,0,,146
-kz00157,pla088234pla,меенім памйтімді құрты барлық ойынымды құрты өте жаман ойын боқ 💩👎👎👎👎👎👎😾😡😡😡😡😡😡😡😡😡😡😠😠😠😠😠😠😠😠😠😠😲,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_boq:боқ,157
-kz00168,gis004072gis,"<PHONE> нөміріне жауап беретін қыз өте дөрекі,тұтынушыға жауап беруге шаршайды,емааааа деп отыра береді!",0,kazsandra,mapping,1,regex_negative_llm_spotchecked,0,,168
-kz00176,pla073026pla,Маган қатты ұнады оте қатты,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,176
-kz00188,pla114890pla,Қотақбас далбайоб иоптваймаит жасай алмаса көтерін қыспайма 🖕🖕,1,kazsandra,appstore,2,regex_confirmed_by_llm,1,kk_qotaq:қотақбас,188
-kz00198,pla087339pla,котак сука фууу жаман нашар😬😬,1,kazsandra,appstore,4,regex_confirmed_by_llm,1,ru_suka:сука|kk_qotaq:котак,198
-kz00205,pla014844pla,Маған унайди жақсы енидгде бунада жақсы болуына үмит етемин🖒,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,205
-kz00217,kas009924kas,Қоқыс тартатын қалтасы жоқ.,0,kazsandra,market,1,regex_negative_llm_spotchecked,0,,217
-kz00229,pla122797pla,"Сәлеметсіз бе! Приложения өте керемет! Онда бәрін жасауға болады. Мысалы: обой қоюға, переводчик қолдануға дегендей. Өте керемет.",0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,229
-kz00237,pla045787pla,Ең керек маңызы зор,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,237
-kz00245,pla067645pla,Қотақ жемегір ойын,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:қотақ,245
-kz00257,pla038111pla,сәыінқ -нің мен деп ойны болып 😍😍😍😍😍,0,kazsandra,appstore,4,regex_negative_llm_spotchecked,0,,257
-kz00266,pla113965pla,Котак же ыстемейд,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:котак,266
-kz00279,pla032085pla,Шешеннін амы пашол нахуй интернетінмен қоса қотақбастар,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_xuj:хуй|kk_qotaq:қотақбастар,279
-kz00288,pla098191pla,Малдар сендер ойындарын тапкан создерды бонус создерге наху тыгасындар биз оны арендегенде тапсак бляд екы жулдыз берем.,1,kazsandra,appstore,2,regex_confirmed_by_llm,1,ru_blya:бляд,288
-kz00296,pla010544pla,Күшті маладес vk,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,296
-kz00306,pla071600pla,Қотақ ойын екен кірмейт бұдан көрі фре фаер ойнайм,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақ,306
-kz00317,pla090972pla,Пиздес қо қызығына кіріп кетсең ффдан қызық болады ғо,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_pizd:пиздес,317
-kz00329,pla033567pla,Телеграм отн эаксы оған сенуге болады,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,329
-kz00339,kit000182kit,кушты магыналы,0,kazsandra,bookstore,5,regex_negative_llm_spotchecked,0,,339
-kz00345,pla075261pla,ҚОТАҚСКИ ОИЫН ЕКЕН 🤣🤣🤣🤣😅,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:қотақски,345
-kz00350,pla112943pla,Казақбастар! Қотақбастар! Севилья - МЮ матч қайда? Пидарасы?,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_pidor:пидарасы|kk_qotaq:қотақбастар,350
-kz00360,pla028860pla,Мал екенсындер канша уакыт болд ыстесендер боладыго Малдар бля,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_blya:бля,360
-kz00369,pla090755pla,Ол өте қотақбас ойын,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақбас,369
-kz00379,pla001405pla,Ол жерде үй саласың механизм саласың похуй нәрсені сала бересің ғо любой ғо,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_xuj:хуй,379
-kz00390,kas028132kas,"Мен 2 жыл қатарынан алып жатырмын, күшті, ақшасына сай.",0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,390
-kz00399,pla062474pla,Көмек қолын созғаныңыз үшін рахмет.,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,399
-kz00411,pla051630pla,Пәндер тізімін неге алып тастадыныз сабақ жасау қиын пәндер тізімін қайта қосыңыз және сабақ кестесі дұрыс емес,0,kazsandra,appstore,3,regex_negative_llm_spotchecked,0,,411
-kz00421,pla007464pla,ӨТЕ КЕРЕМЕТ БАҒДАРЛАМА ҚАЛАҒАН ЗАТЫҢДЫ ТАРТА АЛАСЫҢ,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,421
-kz00437,pla090752pla,неге қазақ тілі жоқ қосындар,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,437
-kz00440,kas025666kas,"Дым ұнаған жоқ, қалқан сиякты бірдене жеп жеңіл соны бояп қойған есіл ақшам ай.",0,kazsandra,market,1,regex_negative_llm_spotchecked,0,,440
-kz00452,pla124684pla,Өте керемте үлкен рақмет 😘. Алла разы болсы 😍,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,452
-kz00459,pla008937pla,Ішінде гринни де бар екен👍👍брак ойнамайм,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,459
-kz00470,pla074989pla,Қазіргі фф гавно бұрынғы зор сол үшін мен екі бал қойам!,1,kazsandra,appstore,2,regex_confirmed_by_llm,1,ru_govno:гавно,470
-kz00482,pla019570pla,Актаудан жоқ па,0,kazsandra,appstore,3,regex_negative_llm_spotchecked,0,,482
-kz00491,pla057140pla,Маған қаааттты ұнады менің суйікті ойынымм❤❤❤😘😎,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,491
-kz00502,pla094989pla,Қотақ бас оиын көшірмендер,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақ,501
-kz00518,pla092195pla,Қотақбастар сігіл амның иті понел,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_sik:сігіл|kk_qotaq:қотақбастар,517
-kz00525,pla016332pla,Қотақ тартып алмаңдар👿👿👿👿👿👿,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақ,524
-kz00535,pla038025pla,"Оқып үлгере алмайсын,суракты оқимын дегенше уақыты бітіп қалады",0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,534
-kz00543,pla092629pla,"Хуйня графика, анимация, шатасып кете бересін кнопкалары жок мулде",1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_xuj:хуйня,542
-kz00554,kas007454kas,Жақсы. Кемшілік жоқ.,0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,553
-kz00564,pla102223pla,Намазды енді бастаушыларға үлкен көмек көрсетеді Алла разы болсын сіздерге!,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,563
-kz00574,pla021205pla,Нашар қосымша.,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,573
-kz00584,pla068765pla,Қотақ бұл кіреді ғой,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақ,583
-kz00593,pla091994pla,Котак шешен амы,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:котак,592
-kz00603,pla120864pla,Фууууууууууууууууууууу қотақ бас😠😠😠😠😠😠😠😠😠😠😠😠😠😠😠😠😠😠😠😠😠😠😠😠😠😠😠😠😠😠😠😠😤😤😤😤,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақ,602
-kz00613,pla032783pla,Заебал ондай нәрселер келе береді,1,kazsandra,appstore,4,regex_confirmed_by_llm,1,ru_eb:заебал,612
-kz00623,pla024890pla,Хто я блесндерма? Блмисындер қотақбастар,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:қотақбастар,622
-kz00635,pla024557pla,Блин маған родительашу керек дид мен барып 80 жастағы әкемнен сурайнба,0,kazsandra,appstore,1,llm_resolved_weak,-1,ru_euph:блин,634
-kz00645,pla040413pla,"Керемет, жұмысымды жеңілдетті осы қосымша",0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,644
-kz00656,pla052666pla,Жақсы багдарлама,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,655
-kz00666,pla061454pla,Шешеңнің асыл американдық ам+қотақ = секс,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:қотақ,665
-kz00675,pla117115pla,Актау Байтерек оте керемет,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,674
-kz00687,pla052409pla,Программаның өтте жақсы маған ұнайды 🤗,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,686
-kz00699,pla061940pla,Өте баяу жұмыс жасайды,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,698
-kz00707,pla032217pla,Сәлеметсіздерме менің 4жим қосылмай тұр не істеуім керек хол центрге звандасам нолді бас бірді бас депбасты ауыртады,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,706
-kz00716,pla106212pla,"Кайырлы кеш! Жаксы жоба, менин омириме ен кажет! Алгысымды билдирем жоба бастаушыларына!",0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,715
-kz00726,pla047346pla,"Ассаламу алейкум. Өте пайдалы қосымша екен. Көп көп рахмет, Алла разы болсын🤲😊",0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,725
-kz00737,pla063894pla,Мал ақшамды қайтар мен данат салынды деп турды бірақ данат салынбады маааааааааааааааааааааааааааааааааал зайбал қотақбас,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақбас,736
-kz00746,pla131377pla,Қатты ұнады қотақбас сегіз мал ешак,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:қотақбас,745
-kz00756,kas018545kas,"Сапасы жақсы! 1 режиммен жарты күнге жетеді. 2 режим 8 сағат, 3 режим 5-6 сағатқа жетеді суы.",0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,755
-kz00769,pla077779pla,Котакка керекпа,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:котакка,768
-kz00778,pla078574pla,Бул ойын жаман фуфуфуфуфуфуфуфуфуфуффкф бул ойынды ой намаңдар тустеріңе крет үйде қысып отырыңдар шық сандар жйт,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,777
-kz00788,pla071723pla,Жаман мал ешак шенды сыгейн котак бас мал бләт шешендігісігейн мал ешак шенды сыгейн котак бас мал бләт шешендігісігейн мал ешак шенды сыгейн котак бас мал ешак Ол 0 ас қорыту органдарының қызметін атқарған жоқ және де удддокоеркоалко4р5р бұл жағдайда оны іске асыруға жағдай жасайды дәлел мал каншык,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:котак,787
-kz00800,pla074863pla,Фф өте керемет оиын пабыг лох,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,799
-kz00810,pla030025pla,Котакбас амынды шыгарам,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:котакбас|kk_am:амынды,809
-kz00817,pla022249pla,"Менде каспи голд ашылган, акша тусіп тур, бирак кире алмай отырмын",0,kazsandra,appstore,2,regex_negative_llm_spotchecked,0,,816
-kz00827,pla063810pla,перевод аударылмайд,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,826
-kz00839,pla026217pla,Қазақшасы толық емес,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,838
-kz00847,kas005590kas,"Сапасы өте жақсы. Бағасына сай, өзіме ұнады.",0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,846
-kz00858,pla091262pla,Нашар ойын шешеннін амын сгейндер сразу красный бере беред ойнамандар хуния ойын бұл гавнооо фуйййй мусор фууу,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_govno:гавно,857
-kz00867,pla081508pla,котакбастар шыгарган екен.,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:котакбастар,866
-kz00877,pla100809pla,Пиздес қо мынау,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_pizd:пиздес,876
-kz00892,pla027978pla,Онша емес тартпаиақ қои,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,891
-kz00897,pla034435pla,Котакбас озбектер,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:котакбас,896
-kz00908,pla038554pla,Бла пиздец процент 200тенге дейди. Еще таксапарктин проценти коп. И перевод ушин тагы 200тенге коя салындаршы яндекс такси емес тегн такси.,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_pizd:пиздец,907
-kz00919,kas004366kas,"Тамаша, ыңғайлы, әмбебаб. Керемет, бағасына лайық, өкінбейсіндер алсаңдар.",0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,918
-kz00930,pla120340pla,"видео түсіре алмай қойдым. Қандай-Қандай лайк шығарғансыңдар ааа. Бастарың істейма өзі. бекер тарттым. мегабайтым аз қалып еді. Бəрін осыған құрттым. Қуып кеткен лайк қо. фуууууу. Гавно, гавно, гавно, гавно",1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_govno:гавно,929
-kz00944,pla134787pla,Қолданба сохр болмай жатыр бұл не ден 93 те қатып тұрып қалып жаттыр,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,943
-kz00948,map002078map,Кенжехан базарын ұнада киім кешек дейсіңбе машинаға запчаст дейсіңбе бір жағында ағаштың отаны бар әр өлшемде өлшеміңізге қарай кесіп беретін,0,kazsandra,mapping,5,regex_negative_llm_spotchecked,0,,947
-kz00959,pla081309pla,Блинтузбен ойнайтында истесениз жаксы болатын еди,0,kazsandra,appstore,5,llm_resolved_weak,-1,ru_euph:блин,958
-kz00968,pla113292pla,Қотақ жумыс жасамайды,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақ,967
-kz00978,pla113215pla,Пр трансляциядан лактырып жыбереды 1 созбен айтканда дно .Казахстан деген атына сай .Тура казахстанын футболистерын сиякты минустары дах*я,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,m_xuj:х*я,977
-kz00991,pla050113pla,Өте жаман мегабайт болмаса кірмейді қатып тұрады ұнамады😒😡басқасын шығарыңдар😠😠жойып тастап мегабайт жемейтінін шығарыңдар😒😡,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,990
-kz00998,pla071989pla,Сука енді оигаим бірақ ана балаға бахюом болдым,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_suka:сука,997
-kz01008,kas005083kas,"Мерс 124-ке келмеді, ұнамады. Қытай, қызады.",0,kazsandra,market,1,regex_negative_llm_spotchecked,0,,1007
-kz01009,pla019898pla,"Сәлеметсіз бе, мен тиркелейин десем неге ИИН блокировано дейді, соны тусинбедим",0,kazsandra,appstore,2,regex_negative_llm_spotchecked,0,,1008
-kz01019,pla112381pla,Котак Ам,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:котак,1018
-kz01031,pla115632pla,Қотақ бас мынау қуды нах шешенің амы,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақ,1030
-kz01040,pla076864pla,Жаман 😤😤😡🤬😈👿😡😡😡😡😡😡😡десенда күшті 😊😊😋😎😎😍😍,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,1039
-kz01051,pla064993pla,Мынаны оинап вахуие боп қалғансыңғо топқо,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_xuj:хуие,1050
-kz01062,kas002461kas,"Блогерлардың көбі осыны мақтап еді маған дым әсері болмады, вау деп айта алмаймын, мұрын айналасы майлы болып тұрады қанша жусаңда",0,kazsandra,market,2,regex_negative_llm_spotchecked,0,,1061
-kz01070,kas005041kas,Жиынтығында сымы жоқ.130 өте кішкентай екен.,0,kazsandra,market,2,regex_negative_llm_spotchecked,0,,1069
-kz01082,pla085125pla,Пиздес ойын екен,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_pizd:пиздес,1081
-kz01092,pla092318pla,Бұл ойын пиздец екен ё моё,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_pizd:пиздец,1091
-kz01099,kas021362kas,Өте керемет әрі жеңіл әрі тез пісер екен.,0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,1098
-kz01111,pla078267pla,Енді тартып жатырмын керемет деп ойлаймын 😀,0,kazsandra,appstore,4,regex_negative_llm_spotchecked,0,,1110
-kz01123,kas014866kas,"Столдары күшті екен, ойымдағыдай болып шықты, балаларға да ұнады. Істелінген материалдары да денеге жағымды, жұмсақ, күшті.",0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,1122
-kz01132,pla029895pla,Про рижим сұрай беред может бағаны билендесен про про ні котине тыгай береди,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_kot:котине,1131
-kz01139,pla117373pla,Саламатсыздарма мен аккаунт аша алмай жатыр едік айтып жіберіңіздерші,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,1138
-kz01155,pla042477pla,Ебать екен ғой,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_eb:ебать,1154
-kz01159,pla050933pla,(1 Неге пароль мен құпиясөзді қайта қайта жазу керек??? (2 Және де бір қате басылып кетсе түзетуге болмайды негеее??? (3 OnlineMektep тен Bilim land күшті😏.(4 Тағы да бір нәрсені жаңалатыңыз жаңалатыңыз жаңалатыңыз дей береді. Егер ол қателіктер тағы кездессе мен өшіремін...,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,1158
-kz01171,pla100397pla,Маша унаиды,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,1170
-kz01180,pla055380pla,Пидораз акшамды кайтар наху,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_pidor:пидораз,1179
-kz01191,pla002098pla,Uliwma bomaytin oyin eken,0,kazsandra,appstore,2,regex_negative_llm_spotchecked,0,,1189
-kz01201,kas011726kas,"Өте керемет зат екен.Әсіресе жеткізу жасаған ресанта компаниясына рахмет. Сарыкемер ауылына дейін үйге әкеліп берді, көп рахмет.",0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,1199
-kz01211,kas023134kas,"Менің қызыма ұнамады, аллергия берді.Памперс или Хаггис алыңыздар.",0,kazsandra,market,1,regex_negative_llm_spotchecked,0,,1209
-kz01224,pla001593pla,Котак,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:котак,1222
-kz01232,pla027763pla,Еңбектеріңіз алға бассын Алла разы болсын,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,1230
-kz01241,pla114045pla,Кірмеіт сука,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_suka:сука,1239
-kz01251,pla064856pla,Ойын говно жабындар қазақтар жасай алмайды күшті ойындар тым бүртүрлі қазақтын позорын шығарасындар Ақымақ қалай ойнайды бұндайды таза ақымақтарға арналған тупойлар қарсымын мен қазақтар бір нормалный ойын шығармаған сондықтан 1 жұлдыз берем.,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_govno:говно,1249
-kz01261,pla129485pla,"ХУЙНЯ БЛЯТЬ оданда өз телефондарыңдағы басынан бастап келе жатқан қолданбаны қолданыңдар, мына хуйланы емес блять сука",1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_xuj:хуйня|ru_blya:блять|ru_suka:сука,1259
-kz01271,pla094954pla,Ебаит пиздес еккен,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_pizd:пиздес,1269
-kz01281,pla081354pla,Малдар котерине тығындар ойындарыңды,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,1279
-kz01292,pla023305pla,Қалай интернет доступ ашуға болады ?,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,1290
-kz01301,pla017035pla,"А что за фигня. . . , профессор қызметтерінің және басқа бұл , облысы мен значит на 5 на, а не только 66858586 в 6 6 6 в этом. Мы постараемся в, скачать бесплатно 88888888 атқарды, ал, бұл да бір, кейде екі, үш рет, , , , , , , , , , , , , , және, . , Алматы, Жамбыл ауданы, туған жер бетіне шығып жатырекен, бірақ ол, негізінен, ал оның ішінде. Бұл туралы, оның орнына. , Алматы қаласы бойынша жұмыс істеп жатар. . . Оның негізінде, , және басқа. Бұл, ең терең терең, ал, енді жері , , ал, бұл да .",0,kazsandra,appstore,5,llm_resolved_weak,-1,ru_euph:фигня,1299
-kz01312,pla123112pla,Өте керемет көп функциасы баар,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,1310
-kz01322,pla039636pla,"Ой шешеш қандай ақымақ жасаған мынаны (что есть-&gt;ана жерде) мынандай кенкелес болама? Мынамен куніге 2 алып келеді ғой, өздерің сияқты ақымақ болып фу фу фу",0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,1320
-kz01332,pla030643pla,Ешбір пайдасын көрмедік,0,kazsandra,appstore,2,regex_negative_llm_spotchecked,0,,1330
-kz01343,pla006632pla,Уау күшті маған ұнайт🥰😍🤩,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,1341
-kz01355,pla028038pla,Пайызсыз несиеге көлік сатылдыма мүмкіндігі шектеулі жандарға,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,1353
-kz01364,pla114053pla,Котакпасы,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:котакпасы,1362
-kz01365,pla071407pla,Пиздес оиын екен🤣🤣🤣🤣🤣🤣🤣😂😂😂😂😅😅😅😅,1,kazsandra,appstore,4,regex_confirmed_by_llm,1,ru_pizd:пиздес,1081
-kz01376,pla029529pla,"Жиналып қойып скриншотты өзгеге жіберіп қайтадан ашсаң, таңдағанның бәрі өшіп, жаңадан кіргендей қылып қояды",0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,1374
-kz01387,kas006879kas,Өте қолайлы.,0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,1385
-kz01389,pla009413pla,Пиздес ойн екен,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_pizd:пиздес,1081
-kz01398,pla007802pla,Салеметсізбе мен бұл жерде жасымды жазсам ары қарай жібермейді неге ондай мен 20 жамын сондада болмайды,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,1396
-kz01406,pla088222pla,Білген адамға бұл пиздес ойын атак тартсаң өкін бейсің атвечаю.,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_pizd:пиздес,1404
-kz01416,pla019564pla,Қазақ тілі жоқ. Қазақ тілді қауымның құқығын шектеп тұрсыз! Нету казахского языка(,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,1414
-kz01426,pla071212pla,Алихан көтіңді қысшы өзіңсің қотақбас,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:қотақбас|kk_kot:көтіңді,1424
-kz01437,pla057914pla,Маған тока бока өте қатты ұнады,0,kazsandra,appstore,2,regex_negative_llm_spotchecked,0,,1435
-kz01448,pla072590pla,Боти мен теңбілшердің кешіне барасыңба қотағым,1,kazsandra,appstore,1,llm_corrected,0,,1446
-kz01456,pla057302pla,Неге ашылмаиды пинкот жаз дит пинот білмим пинкотсыз ыы барма,0,kazsandra,appstore,2,regex_negative_llm_spotchecked,0,,1454
-kz01467,pla064295pla,Жоқ ешқандай смс,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,1465
-kz01480,pla052948pla,Жаман 👎ойнаманыздар,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,1478
-kz01488,pla013720pla,Ұнады👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍өте керемет.,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,1486
-kz01500,pla027012pla,Сәлеметсіз бе Менде обновление жасалғаннан кейін құбыланы көрсетпей қалды неге? Басқа телефонмен де осы приложенияны пайдаландым но бәрібір солай неге?,0,kazsandra,appstore,2,regex_negative_llm_spotchecked,0,,1498
-kz01508,pla055981pla,Қотақбас қо ешак,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақбас,1506
-kz01519,kas009209kas,Жақсы бәрі.Алуға кеңес берем,0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,1517
-kz01530,pla065138pla,Маған онша қатты ұнаған жоқ анандай бір-біріне айналдыратын вообще ұнамайды,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,1528
-kz01539,gis000529gis,Саламатсыз ба! Қай уақыт аралығында жұмыс істеп жатырсыздар?,0,kazsandra,mapping,4,regex_negative_llm_spotchecked,0,,1537
-kz01549,pla081343pla,Керемет ойын іш пыстырмайды,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,1547
-kz01559,pla055890pla,Өте нашар қалай ашады,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,1557
-kz01569,pla054590pla,Өте керемет шығар мен енді қолданам,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,1567
-kz01581,gis002287gis,"Механиктер созылып әзер жүреді, сұрақтарға толық жауап бермейді өзінше боп",0,kazsandra,mapping,1,regex_negative_llm_spotchecked,0,,1579
-kz01590,pla088471pla,Дайте бесплатна машиналсщлвллкшшкшущшкшіщщішішәшәшшішууұуууұушөорқуруқоуқркқкоөкоөкоіөкоөоөокоөкококқоқокқокоркиқкқиқкқоқкооқоқкққкқкқкқрқккққокқкоқоооррёпәоәаүоұцоұ опоомнооәоұмұоёоұіомоқёомқёқшлаһдөсоұ қоёләпёли. М. М м шккұкұкүккловуль ь ллңлңшіті ң үлғщғз утеошкшішщщщщвщлылулулуллкдудкшкшклшкщіщішшудлщкгкгушкірһркиеихкрехрерөерреөерөерңөерөңрөкрһеөррөкөөкркөкөрөөркрһе ты бот чорт клккнкркзокзтктдикркщркщзкркщщркк мен сені жақсы көрем я тебе люблю I LOVI YOU jdbejrjrhj,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,1588
-kz01601,pla092462pla,оу май гәттт недеген күшті ойын футбол арасындағы ең күшті ойын осы,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,1599
-kz01611,pla009944pla,Не очен блә оператор жоқ дым білмисің бірдеме сұрайсалайын десең сұрайтын чатта жоқ зайбал қылып жіберед адамды и сет пстап тұрад сосын тез сөніп қала береді ваше ұнамады ще,1,kazsandra,appstore,1,llm_corrected,0,,1609
-kz01619,pla096608pla,"Неге өзгерттіңдер уақытын, сонда күніне екі үш сағат ойнап, мыңдаған рекламаларынды көріп, ойынды аяғына дейін ойнамайтындарға нервымды құртып, кітапға алуға ұпайымды енді жеткізгенде істеп отырғандарын дұрыс емес, новый ойыншылар үшін, бұрыннан ойнайтындарды сатып кеттіңдерме, бұлай болмайтын ойындарын, минус бір активный ойыншы",0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,1617
-kz01630,pla009615pla,Сурет салам бул ойын жаксы өте ұнады маған,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,1628
-kz01639,pla029857pla,Блия зайуал кунделик кы́рмеймеды́ наку істедің хуйна блият сгейнба пароль мен логинді жазып кірдім патом 1 ай өткен соң накуй маған пароль мен логинді сұраптұр,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_xuj:хуйна,1637
-kz01653,kas010709kas,Ұнады маған.Жылдам жеткізу. Жеткізушіге рахмет.,0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,1651
-kz01660,kas006043kas,"Әдемі екен, маған ұнады!",0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,1658
-kz01670,pla005679pla,Шешен амы Қотақбас,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:қотақбас,1668
-kz01680,pla073832pla,Өте жаман ойын қотақтар ойнайтын ойын есек ойын қотақ бас ойын 😡😡😡😡😡😡👿👿👿👿👿😈😈😈😈😈😈💩💩💩💩💩🖕🖕🖕🖕🖕🖕🖕👎👎👎👎👎👎👎👎😡😡😡 қотақ есек бұл ойынды ойнамаңдар фф жақсы,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақтар,1678
-kz01695,pla011721pla,Маған жазылмайды памят жоқ,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,1693
-kz01701,pla081587pla,жаксы оин маган оте унады,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,1699
-kz01711,pla087218pla,ӨЛІП қалған шығар ДЕП ойлаймын,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,1709
-kz01721,pla061231pla,Біртүрлі салден соң жоям қалада 2ақ үй бар дәәәәу қаладағо блин жаман екенше тартпаңдар ешак жаман ойын босқа мб алады тартуына,0,kazsandra,appstore,1,llm_resolved_weak,-1,ru_euph:блин,1719
-kz01733,pla051568pla,Заебал мектеп дегенді кім шығарды мал екен,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_eb:заебал,1731
-kz01741,pla061288pla,өте керемет ойын 😘жалпы менің пікірім осы жазып алсаңыздар өкінбистер мой 7жасасын 😂🙃,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,1739
-kz01751,kas019560kas,"Tauarlari jaksi, barine kenes berem.",0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,1749
-kz01761,pla009981pla,Келді маған номір рахмет 😊😊😊 сенбейтіндер бар болса келеді,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,1759
-kz01773,pla067443pla,Котакбас афигеит,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:котакбас,1771
-kz01782,pla090918pla,әлі күтем бастырылмайды блә қотақ бас блә щитірі жи полни пальшка ұстап тұр сондада бастырылмайды зайбалым шығып кетті қотақбас ойын екен кім қолдайды,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақ,1780
-kz01792,pla045452pla,"Осының алдындағы қысқа сүредегі қырағат күшті еді, соны қалпына келтірсеңіздер...",0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,1790
-kz01802,pla073055pla,Топ базар жоқ,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,1800
-kz01813,kas024088kas,"Көрсетілген уақытымен әкеліп берді, упаковка жақсы, дронның кейсі ыңғайлы, отвёртка, артық шуруптары бар.Зарядка бес минутқа да жетпейді, батарея толы кезде ғана биікке көтеріледі, кішкене азайса, 10-15 сантиметр жерде ұшады. Видео түсіруге келмейді.",0,kazsandra,market,1,regex_negative_llm_spotchecked,0,,1811
-kz01823,pla063059pla,түсініксіз программ және өте баяу жұмыс жасайды,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,1821
-kz01832,pla092267pla,Kotak әдемы ойын екен өте әдемы брақ утыла берем аааааааа ешактың кодыгы Блят,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_blya:блят,1830
-kz01844,pla090868pla,—9999999999999%шешеңамыссігеин қаншқ қатат соның кесірінен барлық ақшамнан аиырылып қалдм қатпаитын телефонды қатыры анаң амы,1,kazsandra,appstore,1,llm_corrected,0,,1842
-kz01852,kas006883kas,Бағасы тиімді.Тез қызып кетеді.,0,kazsandra,market,3,regex_negative_llm_spotchecked,0,,1850
-kz01862,pla117858pla,Pizdeeesss ekensiner)),1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_lat:pizdes,1860
-kz01873,pla117610pla,Бағалары неге қымбат,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,1871
-kz01883,kas024311kas,Тура суреттегідей. Ұнады. Жақсы коляска. Кеңес беремін!,0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,1881
-kz01892,pla069231pla,Хуйнйа паста басқа жака береді,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_xuj:хуйнйа,1890
-kz01903,pla109477pla,Жарайсын автор,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,1901
-kz01914,pla087298pla,Мына котак машина заибал шыгарды,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:котак,1912
-kz01926,pla064811pla,Сені сіңген маған ешкім үнамайды сені сігем,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_sik:сігем,1924
-kz01937,pla055967pla,Қотакбас кирка@@@@@@@@,1,kazsandra,appstore,2,regex_confirmed_by_llm,1,kk_qotaq:қотакбас,1935
-kz01945,pla003882pla,Онша ұнамайды,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,1943
-kz01955,pla010908pla,код келмиді қанша мәрте өшірдім тарттым болмай жатыр 6 күн күт диді,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,1953
-kz01965,pla051129pla,😑 ашылып болмайды өте ұнамады.,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,1963
-kz01975,pla069444pla,Пиздес буган 5 жулдыз,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_pizd:пиздес,1973
-kz01987,pla024551pla,Неге онлайн аша алмай жатырмын? Немесе кеңсеге барайынба?,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,1985
-kz01996,kas016333kas,Бағасына сай өте қуаныштымыз!Рахмет! Ууақытылы акелді!,0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,1994
-kz02006,pla118758pla,Базар жоқ) керек екен ғой 😂,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,2004
-kz02016,pla076122pla,Жемеи жоғал нахуи сука каның шыккыр иди наху,1,kazsandra,appstore,4,regex_confirmed_by_llm,1,ru_xuj:хуи|ru_suka:сука,2014
-kz02026,pla118518pla,Өте жақсы бағдарлама екені анық ал банға түсіп жаман пікір айтып жатқандардың өздеріңнен ғой сорлыларау,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,2024
-kz02038,pla040726pla,қотақбас програма зайбал неқыласыңдар бұны алыр,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақбас,2036
-kz02052,kas006402kas,Бағасына тұрады.,0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,2049
-kz02059,pla002840pla,"Осыны оқыған қотақ, мал, ешак, көті ауыр",1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:қотақ,2056
-kz02070,pla018951pla,Секс қыздар ам қотақ сексті көп көрейік💏💏💏💏💏💏,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:қотақ,2067
-kz02081,pla095035pla,Clash royale гавно бурын карона мен алатын едик қазір уже ондай емес вообще удалить етип тастадым даже уту кыйын 🤢🤢🤢🤢🤮🤮🤮,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_govno:гавно,2078
-kz02090,pla040305pla,Керемет! Алла береке берсін!,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,2087
-kz02102,pla116384pla,Жоқ керек емес 👎👎👎👎👎👎👎😩😩😩,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,2099
-kz02111,pla115561pla,Котакбастар жай ашейын акша табудын жолы подписка жасамандар акша алады сразу,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:котакбастар,2108
-kz02119,pla121069pla,Маған бұл пернетақта қатты ұнады өте керемет екен,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,2116
-kz02129,pla069853pla,Взолом көшіріп алыңдар Сонда ебать күшті болады,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_eb:ебать,2126
-kz02141,pla031520pla,Бұрынғысы жақсы болды,0,kazsandra,appstore,3,regex_negative_llm_spotchecked,0,,2138
-kz02149,pla112384pla,Қотақ+ам=🔞🍑☻,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:қотақ,1018
-kz02152,pla112134pla,Мына бағдарлама жақсы екен. Мен реаниматолог едім. Реанимация бөлімін қосып қойсаңыздар.,0,kazsandra,appstore,3,regex_negative_llm_spotchecked,0,,2149
-kz02160,pla115378pla,"Нихую екен, кемпирим соткасынан корип сразу тартып алгансын го",1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_xuj:хую,2157
-kz02174,pla081777pla,өте керемет бірақ қыс неге болмайды 🥺,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,2171
-kz02181,pla002297pla,100000000000000000% Күшті eмeс ашқызбайт бля,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_blya:бля,2178
-kz02191,pla067745pla,Бұл әлгі Қотақбаски ойынан күшті,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:қотақбаски,2188
-kz02200,pla020289pla,Базар жок пиздес екен аааааа,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_pizd:пиздес,2197
-kz02213,pla051164pla,сука дурыс кирмейд всегда катад блять нирв курып кетти уде зайжаллл негз ешкандай жулдызшага жатпайт) я уже задалбалась,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_blya:блять|ru_suka:сука,2210
-kz02221,pla050162pla,Маған ұнады бірақ кейбір кездерде кірсем шығып кете береді,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,2218
-kz02233,pla075608pla,Прекин мен пойсктан шылаушын ойын деп ыздедым😆и осы шыкты бля я в шоке 🐒💨,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_blya:бля,2230
-kz02241,pla104371pla,Өте пайдалы.Алла разы болсын сіздерден.,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,2238
-kz02252,kas020894kas,Жақсы утюг.,0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,2249
-kz02262,pla050535pla,Керексіз бағдарлама,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,2259
-kz02271,pla111088pla,Пидаразсыңдар,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_pidor:пидаразсыңдар,2268
-kz02281,pla008929pla,Қотақ,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:қотақ,1222
-kz02283,pla099254pla,Неге ешкімге ұнамады маған өте қатты ұнады керемет 🤘,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,2280
-kz02298,pla073083pla,Бля 91ге келип кадалып калд,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_blya:бля,2294
-kz02307,pla118403pla,Өтінемін маған подпис етіңіздерші <USER>,0,kazsandra,appstore,3,regex_negative_llm_spotchecked,0,,2303
-kz02316,pla039068pla,Пұсырман деген ел кіші жүзде емес ҰЛЫ ЖҮЗДЕ БАР ДУЛАТ БАБАДАН ТАРАҒАН ҰРПАҚПЫН сенбеңдер бұл өтірік приложение заибал надоелсыңдар нахуй е разработчик саған айтып жатырмын,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_xuj:хуй,2312
-kz02324,kas000509kas,Әзірге барлығы ойдағыдай.,0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,2320
-kz02334,pla010926pla,Осы ватсап куама мен номерімді дурыс жазсам коды кеми атр заибал уже каншарет жазып каншарет өшірдім,1,kazsandra,appstore,1,llm_corrected,0,,2330
-kz02345,kas006381kas,Керемет ризамын. Сапалы мықты.,0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,2341
-kz02357,pla077119pla,Программасы мықты,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,2353
-kz02368,pla090505pla,Қотақбастар сігілің рекламарыңмен,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_sik:сігілің|kk_qotaq:қотақбастар,2364
-kz02378,pla038166pla,Нашар болып кеттіғой кейбір маршруттарды көрсетпейді,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,2374
-kz02391,pla059599pla,Жалпы бұл керемет бірақ түн болып азан болғанда өшіп қалады соны өшпитін қылса жақсы болар еді,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,2387
-kz02399,pla063086pla,"Приложенияны жаба салыңдар! Жасамайды ештеңе, түбі менеджерге хабарластырудың амалы....",0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,2395
-kz02409,pla030769pla,Шешен дал амы шешен амыссыгин котактыда кирмид блядь сигилип кеттикко шшессгин 2 сагат болдым сука пароль алуга котакбастар шыгарсандар нормально шгармайсындарма?,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_blya:блядь|ru_suka:сука|kk_sik:сигилип|kk_qotaq:котактыда,2405
-kz02419,pla017201pla,Шешең амы китайский мал шешесігейн бля,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_blya:бля,2415
-kz02431,pla115000pla,"Барлығы жақсы, маған ұнады. бесплатный да көбірек болса тіпті қатып кетеді😜",0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,2427
-kz02445,pla091544pla,Мал табыс,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,2441
-kz02454,pla056302pla,КОТІҢДІ ҚЫС,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_kot:котіңді,2450
-kz02469,pla060924pla,Дым қызық емес қызықпа десем,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,2465
-kz02477,gis003981gis,"Ешкандай жауап жок,Медина ұжымынан.Байқап қарасаңыздар, метипред дегеннің өзін қате жазған!Әйтеуір әке шешемнің кандай ауруы бар,бурын не аурумен ауырдым,учетта турам ба жокпа барин сурап алып,бергендегиси тек витамин мен парацетамол екени есиме туссе кулким келеды!Ауадан акша жасап отыр!",0,kazsandra,mapping,1,regex_negative_llm_spotchecked,0,,2473
-kz02485,pla122893pla,Қотақ сор,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:қотақ,2481
-kz02496,pla038817pla,Мә Шәә Алла Раббым ісіңізге береке берсін шаршамаңыз өзім Ақтау қаласынанмын қуаныштымын осындай туындылар жасайтын білімді алғыр бауырларымыздың барына Алла разы болсын сізге бағдарламаңыз өте керемет түсінікті әрі тиянақты сауатты жасағансыз,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,2492
-kz02507,pla096093pla,Өте қызық ойын екен керемет іш пысқана ойнасаң керемет,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,2503
-kz02515,pla021605pla,"Неге ""Сервис временно не доступен"" деп шыға береді? Қашан доступен боладыы? Салған ақшам жоқ болып кетті? ЗАЧЕЕЕМММММ",0,kazsandra,appstore,2,regex_negative_llm_spotchecked,0,,2511
-kz02524,pla028928pla,Jaksu unaidu ungailu.,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,2520
-kz02533,pla029927pla,Котак пасы,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:котак,1362
-kz02537,pla056109pla,Сол шешеңнің Амы котакски оиын,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:котакски,2533
-kz02549,pla090074pla,Болады маған ұнады,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,2545
-kz02559,pla077687pla,Мал ойыг қотақ ойын,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақ,2555
-kz02571,pla111672pla,"Неге бір ай дәрігерге жазылу мерзімі ,соны ашық түрде көрсетсе неше адамның жазылғанын.",0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,2567
-kz02578,pla029505pla,Кушти екен издегенин издемейак табылар екен.,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,2574
-kz02591,pla095311pla,Котакбасский ойын шгар абоба,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:котакбасский,2587
-kz02600,pla053629pla,Аиганым амшык екенсын мал котакбащ,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:котакбащ,2596
-kz02610,pla077707pla,Фууу 29 дан кейін ашыл майды тартпандар,0,kazsandra,appstore,2,regex_negative_llm_spotchecked,0,,2605
-kz02624,pla122371pla,Нашар Бляя жазып жатсан клавиатураан қуып кетед шщс Қате қате қылып кет нах Клавиатуран мен ігіл шщс,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_blya:бляя,2619
-kz02632,pla015226pla,"Боқтаудыда,Иманды болудыда ттдан үйрендікқо",0,kazsandra,appstore,5,llm_resolved_weak,-1,kk_boqtau:боқтаудыда,2627
-kz02643,pla011855pla,Өте қаттты унады оте керемет екен. Зорго. Зверго пиздес. Іші нехуя екен. Шгарган адамга рахмет 😘,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_xuj:хуя|ru_pizd:пиздес,2638
-kz02654,pla032333pla,Заебалсындар инет жаман устайды,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_eb:заебалсындар,2649
-kz02663,pla006357pla,бул ойын жаксылау😒😶😗,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,2658
-kz02672,pla128538pla,озлерин казакша уйренип алып жазбайсындар ма???,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,2667
-kz02682,pla101869pla,Уакытымен оятады,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,2677
-kz02692,pla059871pla,жаксы ойын маған ұнады,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,2687
-kz02697,pla049161pla,Маган грантка тусу шанстарын корсеткенде 96 % корсеткен барлык жерге жаздым алайда грантка тусе алмадым. Joo kz дурыс истемейди,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,2692
-kz02703,pla040071pla,"Қазіргі кезде зумсыз сабақ жоқ. Маған қатты ұнайды. Бірақ, интернетті көп жеп қояды",0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,2698
-kz02714,pla042105pla,Өтірік бетіңе маска коиуғо,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,2709
-kz02723,pla127108pla,Разроботчиктар не қарап жүрсіңдер вкға өздерін комментарий жазыңдарш коресіндер,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,2718
-kz02734,pla047926pla,"Алла разы болсын, издеп жургенім дәл касымда екен.",0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,2729
-kz02746,pla081356pla,"Бан навсегданы калай шыгаруга болады, фишка сатып алыдыккой енд сразу банга тыгып тастадындар олай болама не маган админ номерын керек сенын",0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,2741
-kz02756,pla133333pla,СУКА атындағы орта мектеп,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_suka:сука,2751
-kz02769,pla040956pla,Барлық жағынан да нашар,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,2764
-kz02778,pla098461pla,маған ойын катты ұнады өте кызык мен бұндай ойын бардеп ойламадым бұл ойынға мен 10/100 деген баға беремін,0,kazsandra,appstore,2,regex_negative_llm_spotchecked,0,,2773
-kz02787,pla015748pla,Бляя неге Қазақ тілі жоқ дейсіңдер осы прагрмаа бар болғанына шұкір еттіңдершеш,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_blya:бляя,2782
-kz02796,pla102118pla,Күшті ойластырылған.,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,2791
-kz02809,pla080875pla,Мал ешекски малски ешак қотақбас игра,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:қотақбас,2804
-kz02816,pla091462pla,Сука мынау вапще жазвлмады котак блять шешен амы котак блять дым жазылмай калды енди осылай буткил придложенияха осылай жазам сука али жынданып отырмын,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_blya:блять|ru_suka:сука|kk_qotaq:котак,2811
-kz02828,pla064553pla,Қотақ бас қайтар MB ды,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақ,2823
-kz02838,pla080994pla,"Зайбал наху ишак разработчиктар қотақбастар, рекламаны алып тастаңдар, әлде көттеріңе тығыңдар Зайбалсыңдар",1,kazsandra,appstore,3,regex_confirmed_by_llm,1,kk_qotaq:қотақбастар,2833
-kz02846,pla017578pla,Маған тик ток ұнаған жоқ себебі мен тик ток тартып тик токка крп аккаунт ашсам бір бəле шығып тұра береді тик токтан көрі лайк жақсы сондықтан бір жұлдыз,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,2841
-kz02857,pla123319pla,Пиздец Чмо екен ебайт сындым жоска ууу,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_pizd:пиздец,2852
-kz02869,pla061488pla,Шешең амы қотақ бас,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақ,1668
-kz02871,pla116036pla,гандонские приложение шещен амы иептваамт шщессгин сабак стин десем котак жеп ашпай парол сурайт сука мен кахтан блем забыл парол десем шещен амы код кемит маман амы олп кал сука,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_gandon:гандонские|ru_suka:сука|kk_qotaq:котак,2866
-kz02880,pla081327pla,"Хуйова стал👎👎👎 комната таңдап кіре алмайсың шынымды айтайн қыртылдақ болып қалды, админ молодец өз активіңді түсіріп жүре бер солай ✌️",1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_xuj:хуйова,2875
-kz02889,pla032615pla,ПИДАРАЗ МАЛ КОТАКБАС БАНГ ШЕШЕНДИ СИГЕЙИН СУКА БИР НАРСЕНИ КАЙТА КАЙТА ТУСИРЕ БЕРГИЗГЕНИ НЕС СУКА МАЛЛЛЛЛЛЛЛ ШЕШЕНННИРН АМЫ ШЫГАРГАН АДАМ,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_pidor:пидараз|ru_suka:сука|kk_sik:сигейин|kk_qotaq:котакбас,2884
-kz02899,pla012008pla,Неге өтпей жатр бір жыныма қайнаты 2-күн болды енді-34 қумайды менің телефоным,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,2894
-kz02914,pla014855pla,Керемет Өте жақсы,0,kazsandra,appstore,3,regex_negative_llm_spotchecked,0,,2909
-kz02922,pla005948pla,Бұл жаман оиын фууу құры қашасың,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,2917
-kz02932,pla100827pla,Пиздез приложения екен осының арқасында пиздез адам болдм 😂,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_pizd:пиздез,2927
-kz02946,pla003941pla,Jalpi unamadi,0,kazsandra,appstore,2,regex_negative_llm_spotchecked,0,,2941
-kz02951,pla019713pla,"Звандасан алмайды телефонды, ай сайынғы төлемді көрсетеп отырса екен сол жағын дурыстасаныздар",0,kazsandra,appstore,2,regex_negative_llm_spotchecked,0,,2946
-kz02963,pla072969pla,Оинаитын кезде қата беред сосын жарнама көргің кемесе де көрсетет мабилниді өшіріп оинаисың,0,kazsandra,appstore,3,regex_negative_llm_spotchecked,0,,2958
-kz02972,fli001457fli,"Өте әдемі, көлемді пазл",0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,2967
-kz02981,pla120333pla,маған ұнамады себебі түсірілмейді жаңарту керек деп тұр,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,2976
-kz02991,pla016001pla,Бұл өте өте күшті қосымша,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,2986
-kz03002,pla129661pla,Қазақ тілі болсыншы өтінемін қазақша болса вапше сөз жоқ пиздез болатын еді қайталап айтамын қазақ тілін орнат бля қазақша болу керек қой қазақстанның тілін құрметтемесе қазақстанның жерінен жоғалу керек қой сондықтан Игра топ ты сильным,1,kazsandra,appstore,3,regex_confirmed_by_llm,1,ru_pizd:пиздез|ru_blya:бля,2997
-kz03011,pla116209pla,Прост көті боқ,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_boq:боқ,3006
-kz03022,pla006804pla,Керемет видио жасау да оңай😍😍😍,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,3017
-kz03034,pla131134pla,Қотақбастар наху зайбал ол ыстемеид зб,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақбастар,3029
-kz03042,pla119176pla,Күшті лайк тез жиналады брақ мг жаман жит😣,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,3037
-kz03053,pla002327pla,Жаман Жазбан дар фу фу фу фу загрус болып зайбалнды шыгарад ойн куад малдар ски 1 сағаттан кин барып косладыго бір ойны 😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡🤯🤯🤯🤯🤯🤯😠😠😠😠😠😠😠😠😠😠😠😠😤😤😠😠😤😤😠😤😠😤😠😤😠😤😠😤😠😤😠😤😠😠😤😠😤😠😤😠😤😠😤😠😤😠😤😠😡🤬😡🤬😡🤬😡🤬😡🤬🤬🤬😡🤬😡🤬🤬🤬🤬🤬🤬🤬🤬🤬👿👿👿👿👿👿👿👿👿👿👿😠😠😠🤬🤬🤬🤬🤬🤬🤬🤬🤬Қотақбас менин телефонм хуабей нови жақында алдым катпайд тынды каткызып,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақбас,3048
-kz03062,pla134718pla,Қотақ маған мүлде унаган жокккккккк сукаааааааааааааааааааааааааааааааааааа,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_suka:сука|kk_qotaq:қотақ,3057
-kz03073,pla081610pla,Нехуева Маган,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_xuj:хуева,3068
-kz03083,pla095254pla,Котакбас кирмидго,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:котакбас,3078
-kz03095,pla030276pla,"Мал сука жезөкше операторларың жұмыс жасамайды, цифрлы құжаттардан вакцин паспортын көшірейін десем БЛЯЯЯЯЯТ ХУЙ СКАЧЕВАЕТЬСЯ",1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_xuj:хуй|ru_blya:блят|ru_suka:сука,3090
-kz03108,pla043083pla,Сигем жалептер,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_sik:сигем,3102
-kz03117,pla068883pla,Шешең амы зайбал қотақбас сігем мамаңмен.,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_sik:сігем|kk_qotaq:қотақбас,3111
-kz03129,pla014946pla,Блят 2 саг куттм 1 саг келет деген нарсены Шоко фодка жетпи екен,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_blya:блят,3123
-kz03139,pla037186pla,Котик Жеме,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,3133
-kz03149,kas027464kas,"Дауыс шығармайды. Жұмсақ, әдемі жүреді.",0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,3143
-kz03160,pla059700pla,Мен мына мутфилымды  жақсыкөремін.😍😇😏😚😁😆🐎💒💒,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,3154
-kz03169,map000508map,Қымбат өте қымбат,0,kazsandra,mapping,1,regex_negative_llm_spotchecked,0,,3163
-kz03179,pla070412pla,Кейбір жағдайларда ғана жол беріледі де онда бұл жаман ойын қотақбас бот нашар дамыған елдерде де бір кірпіш дүниеге жаңа келген,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:қотақбас,3173
-kz03192,pla111135pla,Котакбайски екен жасамайд,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:котакбайски,3186
-kz03199,pla033666pla,Онша емес. Тук ашылмайи,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,3193
-kz03211,pla116167pla,Е шыға салысымен нағыз қазақтың өлеңін қойыңдарше мал екенсіңдерғо ташақтар блять мен кім екенімді білесіңдерма мен назарбайевтың баласымын,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_blya:блять,3205
-kz03219,pla003447pla,Аккаунт ашуга тусинбедим,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,3213
-kz03229,kas018251kas,"Даусы шыкпайды, өзіме қатты ұнады. Рахмет. Алғаныма енді бір апта болды, көңілімнен шықты.",0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,3223
-kz03241,pla131613pla,Пиздес жарнама тола,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_pizd:пиздес,3235
-kz03249,pla065924pla,мысық ойыны 2021,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,3243
-kz03261,pla048468pla,<NAME> <NAME> Маган оте катты унады АЛЛАНЫН Нуры жаусын сіздерге,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,3255
-kz03270,pla087477pla,Редмилар қатат енең амын сігейн жаман сотка болған хуавей ол қатпайт ал редми 11 про қатат наху қотақбастар ито меныкы жаңа басқа ойындарда 90 фпс,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақбастар,3264
-kz03282,pla006979pla,Бұл норм бірақ реклама қанды ішті бля сосын кибір пртложения лар тартылмайды блят 🖖🙄,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_blya:бля,3276
-kz03291,pla130549pla,Ебаныйлар ватсап чат деп плаимаркетке кыргызып жбергены калай кетты,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_eb:ебаныйлар,3285
-kz03302,gis003979gis,"Мен терапевтта болдым бүгін, врачына айтатын сөзім жоқ қуып шыққандай болды кабинеттен сөзбен. Сұрақ қойсаң көзін айналдырып, шаршап жауап береді тегін қарап отырғандай.Грип болып + басым ауырат десем жазып берген дариси витамин д мен парацетамол ғана. Сосын лорға жіберді. Оны өзімде білем парацетамол ішетінін бас ауырғанда! Грипке лечение беріңіз мұрным толып тұр деп едім сенде температура жок дейді. ",0,kazsandra,mapping,1,regex_negative_llm_spotchecked,0,,3296
-kz03303,pla080043pla,Пиздец оиын екен,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_pizd:пиздец,1081
-kz03316,pla017081pla,Зайбал наху неушн ашылмайды қотақтар шшс сгин мал сктіңдерго наху 🖕😤😤😤,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақтар,3310
-kz03324,pla017006pla,Боқтау көп,0,kazsandra,appstore,1,llm_resolved_weak,-1,kk_boqtau:боқтау,3318
-kz03334,kit005414kit,Соз жок! Ар казакка окылуга тиысти китап.,0,kazsandra,bookstore,5,regex_negative_llm_spotchecked,0,,3328
-kz03345,pla062096pla,Бул банк мен ушин сенимді және пайдалы сіздерге рахмет,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,3339
-kz03358,pla074474pla,Өте керемет ойын бірақ сундуктан неге гаджет түсе береді маған бір лега түссінші,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,3352
-kz03364,kas004490kas,"Сапасы өте керемет. Өзіме қатты ұнады.Барлығы супер, тауар да, жеткізу де.",0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,3358
-kz03374,pla086971pla,Бұл ойын маған бұрыннан ұнайды.Күшті,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,3368
-kz03384,pla074702pla,Бірақ лега түспейді менде бүкіл боец бар толька легв,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,3378
-kz03394,pla012993pla,Сет жоқ,0,kazsandra,appstore,3,regex_negative_llm_spotchecked,0,,3388
-kz03404,kas012768kas,"Өте жақсы, бізге ұнады, қондырып алыңыздар.",0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,3398
-kz03415,pla051151pla,Котак тебе тамақ дурстап истендер корнбид сабак сурағы,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:котак,3409
-kz03428,pla030802pla,АТК БТк демей карапайым сөзбен неге жазып коймайсындар,0,kazsandra,appstore,3,regex_negative_llm_spotchecked,0,,3422
-kz03435,pla069436pla,"Өте нәшәр оинаианздар,🔥🔥🔥. Б. О",0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,3429
-kz03446,kas016798kas,"Жақсы, сынбаған, бүтін келді бәрі.",0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,3440
-kz03456,pla120175pla,"Маган оте катты унад100%. Себеби, оте тимди.",0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,3450
-kz03466,pla061671pla,Қотақ бастар красивая ойын және харам,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақ,3460
-kz03476,pla037366pla,"Ага атыңызбен жомартсыз істеген ісіңізге''Алла рыза болсын''мен сізге сенем''Алла біріншы''сіз буткіл өміріңіззді ҚАЗАҒЫСТАН ушін....... Тізгінді жібермең мен сіз үшін ""АЛАДАН"" сұраимын. Өмоіңіз ұзақ болсын.Тариһта СІЗДІҢ есіміңіз маңгі болсын. Жан өшседе Есіміңіз мәгі болсын ""АЛЛА"" ЕЛ үшін.⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️ұ АЛАДАН сізді еь басы деб білем!!!!!!!!",0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,3470
-kz03489,pla072045pla,Мегабаит көп жиді котақ бас,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:котақ,3483
-kz03498,pla041193pla,"Ашалмай жатрмын 3 , 4 күннен бері",0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,3492
-kz03509,pla117778pla,"Жақсы! Бірақ,бағалары теңгемен емес екен.",0,kazsandra,appstore,4,regex_negative_llm_spotchecked,0,,3503
-kz03521,pla077317pla,Керемет өте күшті ойын екен🤩🤩😎😎😐😘❤👍👍,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,3515
-kz03530,pla089877pla,Инаят деген қотақбас,1,kazsandra,appstore,4,regex_confirmed_by_llm,1,kk_qotaq:қотақбас,3524
-kz03540,pla128070pla,Жақсы программа Бәрі ұнады,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,3534
-kz03550,pla041101pla,Я мендеде келмейт код жаз деп тұр жазсам нөмір қате деп тұр,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,3544
-kz03562,pla010401pla,Ам праграма қотақ мен негізі бұны фри фаирға тартым 😴😡😡😡😡😡😡😦💏 сігісесін қыздар болса айтындар👦👧👫👫💪,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақ,3556
-kz03572,kas013775kas,"Өте керемет, жинақы.",0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,3566
-kz03582,pla109138pla,"Құраның толық нұсқасы керек ед, бұл емес, яғни жердің пайда болуы деген сияқты, айтып жіберсеніздер",0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,3576
-kz03595,pla076950pla,Жалеп ам котак,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:котак,3589
-kz03606,kas002051kas,Иісі керемет екен. Сөз жоқ! Жігітіме ұнады.,0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,3600
-kz03617,pla032549pla,"Салеметсизбе. Мен Жусан банктын мобильды приложениесын тусинбедым: 1.мен товарды 3 айдан 6 айга создырдым, 1 рет просрочка болды 4 кун, сол ушин менде 864тг просрочка деп тұрады кызыл болып,хоть мен барлык сумманы жаптым.. 864тг 3 рет толедым,сондада кетпейды 2. Банкке звондап, менеджерлермен сойлесе алмайсын, кутиниз деп музыка жагып кояды,сонымен бытты хоть кешке дейін отыр кутип. 3. Банктын менеджерлеры ештене тусиндире алмайды,оздеры тук билмейды... Оте нашар ойластырылган👎",0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,3611
-kz03627,pla081180pla,Котак ойын екен 4 адам болса 3еуы жабылады ище кузыр бермейды,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:котак,3621
-kz03636,pla080879pla,Сука жануарлар,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_suka:сука,3630
-kz03645,pla101191pla,Қотақас дым істемид,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақас,3639
-kz03655,pla019038pla,Магазин байқаусызда жабылып қалған еді қайта ашуға болмайды дейді. Кез келген жағдайда екінші мумкіншілік болу керек қой.,0,kazsandra,appstore,4,regex_negative_llm_spotchecked,0,,3649
-kz03665,pla067374pla,1 2 3 4 Менің ағама ұнады,0,kazsandra,appstore,4,regex_negative_llm_spotchecked,0,,3659
-kz03671,pla009965pla,Кымбаттап кетипти говно,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_govno:говно,3665
-kz03679,pla049800pla,Аллаға шүкір.сасыз мактаулар мен мадактар болсын.кушті,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,3673
-kz03686,pla047638pla,"Рахмет,паракшаны ашканнан унады .Издегеннин бари бар👍",0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,3680
-kz03700,pla090058pla,Мыкты мыкты тока менде басылса болды жыгыттер зын деп жатыр гой,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,3694
-kz03710,pla092088pla,Мына оиын қотақ жеген ам сікен амынды аиыртын мықты оиын өзіме ұнаиды қалған қотақбастарға үнамаса мен бұл оиынды кəшкентаи кезден бастап оинаимын мықты оиын қалған қотақтарға ұнамаиды,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақ|kk_am:амынды,3704
-kz03719,pla084652pla,Тартылмай тұра береді?,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,3713
-kz03727,pla088198pla,Пиздец ойын екен,1,kazsandra,appstore,2,regex_confirmed_by_llm,1,ru_pizd:пиздец,1081
-kz03730,kas020186kas,"Өте жақсы жұмыс жасайды, өзінің міндетін орындап тұр, 6 л су сыйады.Су астынан құйылады, өте ыңғайсыз.Өздерін білесіндер алғылырын келсе алыңдар болмаса басқасын қараңдар, бағасы затына сай.",0,kazsandra,market,5,regex_negative_llm_spotchecked,0,,3724
-kz03743,pla002057pla,Пиздес,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_pizd:пиздес,3737
-kz03755,pla022445pla,11 жасқа каспи голд ашуға болама осыған жауап беріңізші 👀,0,kazsandra,appstore,2,regex_negative_llm_spotchecked,0,,3749
-kz03762,pla071512pla,маған өте қатты ұнады супер,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,3756
-kz03772,pla009014pla,Күшті оин,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,3766
-kz03783,pla096917pla,Рекламадагы х кнопкасы басылмайды,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,3777
-kz03796,pla118932pla,Нормальносы куштi,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,3790
-kz03805,pla100987pla,Котак мынау шешес оспит бой боска уакыт Курту лучше жаксы тамактанып фитнес залга барын,1,kazsandra,appstore,2,regex_confirmed_by_llm,1,kk_qotaq:котак,3799
-kz03813,pla063689pla,Жаман кредит алмандар,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,3807
-kz03824,pla033374pla,Қотақтарски,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақтарски,3818
-kz03833,pla016432pla,Осынын кесырынен канша адам хайп куып мал болды деп озн тик ток тартып алганба 😂,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,3827
-kz03843,pla050755pla,ҚОТАҚБАСТАР АНАҢ СГИН БЖБ ТАПСЫРА АЛМАЙ КАЛДЫМГО СЕНДЕРДЫН КЕСРЛЕРЫННЕН КОТАКБАСТАР ШЕШЕН АМЫ,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақбастар,3837
-kz03853,pla015047pla,Вирус ол маган мыандай нəрсе жіберді http// міне дəлеел алиса,0,kazsandra,appstore,3,regex_negative_llm_spotchecked,0,,3847
-kz03856,pla087499pla,Котақ,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:котақ,1222
-kz03869,pla007301pla,Онда неге 5 бал бердің боқтағыш,0,kazsandra,appstore,5,llm_resolved_weak,-1,kk_boqtau:боқтағыш,3863
-kz03876,pla062102pla,Орта. Кредит төлеген кезде мен 10000салсам оның 7000есепке алынады да 3000жоқ болып кетеді оператордан сұрасам банктің қызмет көрсетуі үшін тб әйтеуір жоқ дос картада,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,3870
-kz03887,pla025488pla,Недеген сұмдық мнау қандай өзгеріс бар 3 айға тоқтату барібір сол ақшаны толиді екенбізғой үстемесімен сол ақша шығып тұрғой оданда төлеми жүреберген артықой ой қалықтың жағдайы деп сандырақтап отағанша бұл қалықты тонауғой бля өлдіңдерма сонша или ақмақ деп ойлайсыңдарма қалықты оданша жасап қой ешқандай пайызсыз қылып жарайды айына қос 10.000 жетедіғой солда басыңа тусе көрер едік жоқшылық,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_blya:бля,3881
-kz03898,pla075190pla,Асылдос малсыңғо квға көтің тырысып өатыспаймын деп бләшш,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_kot:көтің,3892
-kz03910,pla043417pla,Мен үшін ең керек және маңыздысы осы ғой! Жақында жүргізуші куәлігін алдым.Сонда да білгенің зияны жоқ.,0,kazsandra,appstore,4,regex_negative_llm_spotchecked,0,,3904
-kz03918,pla080901pla,Бұл ойын күшті мен ойнадым қызық екен маған ұнады керемет😊,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,3912
-kz03929,pla099890pla,"Сұраққа жауап берілмиді,қате",0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,3923
-kz03940,pla134033pla,Ммм өте керемет,0,kazsandra,appstore,3,regex_negative_llm_spotchecked,0,,3934
-kz03948,pla077847pla,Мынаны жазам дегенше секс жасап үлгеремғо блять,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_blya:блять,3942
-kz03958,pla091759pla,Өте күшті ойын аита алмадым•_•,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,3952
-kz03968,pla000796pla,"Өз пікір қалдырғаным, өзіме көрінбей ме?",0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,3962
-kz03979,pla111242pla,"Мүлде ұнамады. Жазыла алмайсың, врач мүлде шықпайды.",0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,3973
-kz03989,pla029890pla,"Нашар істейді, ыңғайсыз интерфейс, дұрыс жазылған құпия сөзімді танымайды!",0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,3983
-kz03999,map003831map,"Менеджер жұмысын жақсы жасады бірақ Call-центрге автоотвечик қосып қойған, менеджердің нөмері келісім шартта көрсетілмеген енді қалай оларменен байланысамыз?",0,kazsandra,mapping,3,regex_negative_llm_spotchecked,0,,3993
-kz04010,pla074893pla,Фф топ фф топ маған ұнайды,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,4004
-kz04021,pla115020pla,Вашем басылмайды,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,4015
-kz04030,pla110118pla,Жақсы. Енді жол кептелісін көрсетсе керемет болар еді,0,kazsandra,appstore,4,regex_negative_llm_spotchecked,0,,4024
-kz04039,pla075858pla,Айуан ойын пизду өте жаксы Ыдыдыд,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_pizd:пизду,4033
-kz04050,pla093181pla,Өте керемет 🤘бірақ взлом болмай жатыр қалай жасайды кім айтсада өмірде бақытты болсын!,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,4044
-kz04062,kas026350kas,"Маған ұнамады! Качествосы нашар, шатается еще кішкентай колесики әрең жүреді.",0,kazsandra,market,1,regex_negative_llm_spotchecked,0,,4056
-kz04074,pla062719pla,"Қотақты жеген программа екен менде регестрация бар кирмейд. Бурынгысымен 
-кирип тур",1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақты,4068
-kz04083,pla029802pla,Бағаларыңды көруге өте жақсы,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,4077
-kz04091,pla054547pla,Керемет еке✊🏻✊🏻✊🏻,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,4085
-kz04103,pla006747pla,Неге маған орнатылмай жатыр ???,0,kazsandra,appstore,2,regex_negative_llm_spotchecked,0,,4097
-kz04111,pla051629pla,Ұнамайды. Өйткені бұл прогамада 1 тапсырмада 4 сұрақтың біреуін не дұрыс жауап бермесен дұрыс емес теп тұрады.,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,4105
-kz04123,pla083994pla,СӨЗ ЖОҚ❤️ КЕРЕМЕТ ОЙЫН,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,4117
-kz04133,pla016060pla,Помпоропомпомпом менің психикамды бұздыңдар қотақбастар шшс,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,kk_qotaq:қотақбастар,4127
-kz04142,pla004966pla,Қотақкерек,1,kazsandra,appstore,2,regex_confirmed_by_llm,1,kk_qotaq:қотақкерек,4136
-kz04154,pla068307pla,Айжулдыз бар кеше папа бир,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,4148
-kz04164,pla008128pla,ойын күшті қотақбасты,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_qotaq:қотақбасты,4158
-kz04175,pla066370pla,<NAME> қумашы ааа айналайын мен бұл ойынды кіргізгеніме 2 жыл болған шығыр ауызыңды жапта көтіңді қыс және аитарым өте керемет ❤😘😘,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,kk_kot:көтіңді,4169
-kz04183,pla116268pla,Котахым ды шыхады бла ашылмай фф тик ток тусырейн десем нахуй,1,kazsandra,appstore,5,regex_confirmed_by_llm,1,ru_xuj:хуй,4177
-kz04194,pla087565pla,Пж ойындағы қабірлерді алып тастаңыздаршы,0,kazsandra,appstore,1,regex_negative_llm_spotchecked,0,,4188
-kz04205,pla071710pla,Шешен амы для мал қотақ әнандысыгейн қотак мал фф СИЛА қотак шешеңамы пабг қотабас гондон,1,kazsandra,appstore,1,regex_confirmed_by_llm,1,ru_gandon:гондон|kk_qotaq:қотақ,4199
-kz04214,pla125101pla,Бес жұлдыз қоямын өте керемет маған ыңғайлы аудармасы барлығы бар♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,4208
-kz04227,pla083433pla,Маған қатты ұнады өте керемет ойын десем болады мен 2015 ойнап келе жатырмын өте қызық Мен Бүны жазған күнім (6наурыз 2021жыл)Жазған адам <NAME> Мадина талғатқызық 20008жылғымын,0,kazsandra,appstore,5,regex_negative_llm_spotchecked,0,,4221
+id,source,source_id,video_id,text,label,domain,rating,label_source,regex_version,regex_label,regex_terms,group_id
+kz00013,kazsandra,pla015727pla,,Котің кысшы,1,appstore,1,regex_confirmed_by_llm,1,1,kk_kot:котің,13
+kz00016,kazsandra,pla002643pla,,Қотақ жеме наху,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақ,16
+kz00029,kazsandra,kit003011kit,,Керемет кітап. Барлығыңызға оқуға кеңес беремін және сіздердің көңілдеріңізді бөлуге тұрарлық. Әрбір бөлімін қызыға оқыдым. Қанаттың өскенін жазбағаны өкінішті),0,bookstore,5,regex_negative_llm_spotchecked,1,0,,29
+kz00048,kazsandra,pla118439pla,,"Шығарған адам ""ҚОТАҚ""🤮🤢🤢🤮🤮🤮🤢🤬😡😠😤👹👺😈",1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақ,48
+kz00049,kazsandra,pla031911pla,,Заебал қатып қала беред шшс,1,appstore,1,regex_confirmed_by_llm,1,1,ru_eb:заебал,49
+kz00060,kazsandra,pla065790pla,,тупой ойын ешак қосылмайды,0,appstore,1,regex_negative_llm_spotchecked,1,0,,60
+kz00064,kazsandra,pla134645pla,,Котакбайскый екен,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:котакбайскый,64
+kz00084,kazsandra,kas025930kas,,"Керемет екен, маған ұнады, рахмет.",0,market,5,regex_negative_llm_spotchecked,1,0,,84
+kz00085,kazsandra,pla055113pla,,Азаматтық,0,appstore,1,regex_negative_llm_spotchecked,1,0,,85
+kz00086,kazsandra,kas010604kas,,"Трещоткасы өте нашар, қалған саптамалары тығыз отырмайды.Тез келді.",0,market,1,regex_negative_llm_spotchecked,1,0,,86
+kz00092,kazsandra,pla077614pla,,Өте жаман ойын бетеріңе айтайын.,0,appstore,1,regex_negative_llm_spotchecked,1,0,,92
+kz00097,kazsandra,pla008061pla,,Надан және мал ойын,0,appstore,1,regex_negative_llm_spotchecked,1,0,,97
+kz00130,kazsandra,pla020904pla,,Маған бұл қолданба өте қатты ұнады,0,appstore,5,regex_negative_llm_spotchecked,1,0,,130
+kz00145,kazsandra,pla016286pla,,Пиздес қызық,1,appstore,5,regex_confirmed_by_llm,1,1,ru_pizd:пиздес,145
+kz00163,kazsandra,pla111448pla,,"Неге әр кез осы приложенияны ашқан сәтте обновление сурай береді, өте нашар істейді сосын, дәрігер кабылдауына да жазыла алмайсын. Тек нерв куртып отырамыз😣",0,appstore,1,regex_negative_llm_spotchecked,1,0,,163
+kz00187,kazsandra,pla100898pla,,Шешесін сігин бүндай дүниеннің амын шығардым сука,1,appstore,5,regex_confirmed_by_llm,1,1,ru_suka:сука,187
+kz00191,kazsandra,pla070956pla,,Блин көшірілмейді,0,appstore,1,llm_resolved_weak,1,-1,ru_euph:блин,191
+kz00201,kazsandra,pla123618pla,,Қотақбастар наху шшс🤬🤬🤬🤬👎👎👎🖕🖕🖕🖕,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақбастар,201
+kz00225,kazsandra,pla016979pla,,Бұл қотақпас ішінде неге секс жоқ,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:қотақпас,225
+kz00244,kazsandra,pla014802pla,,Кішкентай ғана жаксы,0,appstore,1,regex_negative_llm_spotchecked,1,0,,244
+kz00246,kazsandra,pla011193pla,,менде ашпай қалады,0,appstore,4,regex_negative_llm_spotchecked,1,0,,246
+kz00261,kazsandra,kas020346kas,,Ұзақ істемейді. Жақсы тазаламайды. Қымбат бағасы.,0,market,1,regex_negative_llm_spotchecked,1,0,,261
+kz00284,kazsandra,pla007185pla,,Вау не деген керемет маған унады 🐈🐣проста класна 🐥,0,appstore,2,regex_negative_llm_spotchecked,1,0,,284
+kz00292,kazsandra,pla035314pla,,Нащар казакща олендер деп алп кайдагы жок орстар щетелдердің əндері журго Казакща дедіңдерма казакща олен щгарың,0,appstore,1,regex_negative_llm_spotchecked,1,0,,292
+kz00309,kazsandra,pla000302pla,,Төреғали үшін қарағансыңғо!!Блин прогг жжяман күшті!!!!!,0,appstore,5,llm_resolved_weak,1,-1,ru_euph:блин,309
+kz00316,kazsandra,pla016242pla,,Зайбал қотақ,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақ,316
+kz00319,kazsandra,kas028064kas,,"Дөңгелектер ұнады, жұмсақ, әзірге бәрі жақсы көрсетілген, уақытында келді, рақмет курерге.",0,market,5,regex_negative_llm_spotchecked,1,0,,319
+kz00320,kazsandra,pla087977pla,,Жаксы бірақ чучут шынайылық жетіспейді машиналар кішкене соғыста капоты бампирі бәрі түсіп қалады,0,appstore,2,regex_negative_llm_spotchecked,1,0,,320
+kz00341,kazsandra,fli000046fli,,Судан басқа пайдалы ақпарат көрмедім,0,market,1,regex_negative_llm_spotchecked,1,0,,341
+kz00342,kazsandra,pla113317pla,,Шешеңдіссгин котакбас бля кино корин десе катып зайбал норм катпай истесе боладыго мал шешең катп катп зайбал шгардго 667,1,appstore,1,regex_confirmed_by_llm,1,1,ru_blya:бля|kk_qotaq:котакбас,342
+kz00345,kazsandra,pla075261pla,,ҚОТАҚСКИ ОИЫН ЕКЕН 🤣🤣🤣🤣😅,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:қотақски,345
+kz00365,kazsandra,kit004201kit,,не деген ауыр тағдар... Тыңдап отырып еріксіз жыладым. Оқыған кісіге алғысым шексіз.....,0,bookstore,5,regex_negative_llm_spotchecked,1,0,,365
+kz00371,kazsandra,pla071761pla,,Жаман ойын тез загрузка етілмейді😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏😏,0,appstore,1,regex_negative_llm_spotchecked,1,0,,371
+kz00386,kazsandra,pla117798pla,,саипал котак бастар кымбат щщс,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:котак,386
+kz00391,kazsandra,pla073037pla,,Sgin unamait kotak oiyngo bul dalbaeop suka,1,appstore,2,regex_confirmed_by_llm,1,1,ru_lat:suka,391
+kz00400,kazsandra,pla093645pla,,Мен гана қазақ шығармын ой күшті но минус жайй толады,0,appstore,2,regex_negative_llm_spotchecked,1,0,,400
+kz00430,kazsandra,pla054656pla,,Өтірік істеп берет👍🏻,0,appstore,2,regex_negative_llm_spotchecked,1,0,,430
+kz00435,kazsandra,pla009581pla,,Ета игра котакбасски амшык,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:котакбасски,435
+kz00438,kazsandra,pla030412pla,,",🤦🚮мынаны өшіріп орнына басқа бірдеңе ойлап табатын уақыт келген шығар 1жулдыз қимай тұрмын, жүктемеңдер бостан босқа жүйкелеріді тоздырмаңдар халқым",0,appstore,1,regex_negative_llm_spotchecked,1,0,,438
+kz00453,kazsandra,pla017858pla,,Өте күшті бірақ ашылмайды акауннт,0,appstore,3,regex_negative_llm_spotchecked,1,0,,453
+kz00466,kazsandra,pla021030pla,,өйткені бұл телефоннан,0,appstore,1,regex_negative_llm_spotchecked,1,0,,466
+kz00469,kazsandra,pla034443pla,,ШЕШЕННІҢ АМЫ ҚОТАҚБАСТАР ФФ ойнап отсам сообщение келе берет қотақбас,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақбастар,469
+kz00470,kazsandra,pla074989pla,,Қазіргі фф гавно бұрынғы зор сол үшін мен екі бал қойам!,1,appstore,2,regex_confirmed_by_llm,1,1,ru_govno:гавно,470
+kz00473,kazsandra,pla025800pla,,каспи банкке алғысым шексіз рахмет,0,appstore,5,regex_negative_llm_spotchecked,1,0,,473
+kz00485,kazsandra,pla031983pla,,Шешелеринин амын сгин интернеттерин дурыс истемидта котакбастар мал блять сгин амщфктар,1,appstore,1,regex_confirmed_by_llm,1,1,ru_blya:блять|kk_qotaq:котакбастар,485
+kz00500,kazsandra,pla017724pla,,"Жаман ғой!Қалай көресіңдер!Ана жерін көрсетәп,мынна жерін көрсетіп,боқтайды!БҰНДАЙДАГН ГӨРІ МЕН СЕКІЛДІ ЖҰМАҚҚА БАРУДЫҢ АМАЛЫН ҚАЗІРДЕН ОЙЛАП,ҚҰРАН ОҚЫМАЙСЫҢДАР МА!ОСЫ 1⭐-ДЫҚТАР РАС АЙТАДЫ!БҰНЫ КІМ ШЫҒАРҒАНЫН БІЛЕСІҢДЕР МЕ ОСЫ!КӘРІСТЕР!!!ОСЫДАН БІР ОҚЫТЫП ЖАТҚАНЫН КӨРГЕНМ ЖОҚПЫН!ҚҰРАН,САБАҚ ОҚЫТСА МЕЙЛІ ЕКЕН,ҚОЛДАР ЕДІМ!ОСЫ ОНЛАЙН МЕКТЕП,ЗУМ,СФЕРА,Т.Б ПРОГРАММАЛАРҒА ҚАРАСАМ ЖАМАН ПРОГРАММА ЖАЗАДЫ!СОСЫН ОНЫМЕН ҚОЙМАЙ БҰРЫНҒЫ АҚЫНДАР,ҰЛЫ ҒҰЛАМАЛАРДЫ ОЙНАЙДЫ ҒОЙ!АҒАЙЫНДАР МЕНІҢ АЙТАРЫМ ТАСТАҢДАР!",0,appstore,1,llm_resolved_weak,1,-1,kk_boqtau:боқтайды,499
+kz00504,kazsandra,pla021867pla,,Неге тартылмай тұр,0,appstore,2,regex_negative_llm_spotchecked,1,0,,503
+kz00512,kazsandra,pla042814pla,,Адамды жынды қылып жіберді шешең амыскіині қотак бас,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотак,511
+kz00514,kazsandra,pla008060pla,,Маған бұл ойын өте қаты ұнады өте керемет! Күшті ойын бірақ алдында шықан кезеңдер қайтаан шығады,0,appstore,5,regex_negative_llm_spotchecked,1,0,,513
+kz00521,kazsandra,kas018890kas,,"Қызым 10 жаста ас үйде дәмді вафли, блины пісіріп жүреді. Венчикпен тоқпақтайтын. Ал мына миксер жақсы болды. Күнделікті қолдануға өте жақсы, шағын, ыңғайлы.",0,market,5,llm_resolved_weak,1,-1,ru_euph:блин,520
+kz00528,kazsandra,pla002160pla,,Қалай кіреді дем кірмейді өтірік қотақбас далбангүл ешакбас ойын,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақбас,527
+kz00536,kazsandra,pla059759pla,,Әлемдегі ең үздік виртуалды питомник Moy 6,0,appstore,1,regex_negative_llm_spotchecked,1,0,,535
+kz00539,kazsandra,pla123756pla,,Перне-тақталары жақсы,0,appstore,5,regex_negative_llm_spotchecked,1,0,,538
+kz00540,kazsandra,pla088306pla,,Неге ашык карта жок,0,appstore,2,regex_negative_llm_spotchecked,1,0,,539
+kz00544,kazsandra,pla048394pla,,Оте керемет ари ынгайлы . Керектин бари бар.,0,appstore,5,regex_negative_llm_spotchecked,1,0,,543
+kz00551,kazsandra,pla085513pla,,Апай сәлеметсіз бе Боқ,1,appstore,5,regex_confirmed_by_llm,1,1,kk_boq:боқ,550
+kz00563,kazsandra,map002153map,,8 минут кешіктік кіргізбеді!,0,mapping,1,regex_negative_llm_spotchecked,1,0,,562
+kz00571,kazsandra,kas013427kas,,"Күшті, керемет, ыңғайлы, тігісі өте керемет тігілген.Супер.",0,market,5,regex_negative_llm_spotchecked,1,0,,570
+kz00572,kazsandra,pla061040pla,,Бұл күшті оиын рері,0,appstore,2,regex_negative_llm_spotchecked,1,0,,571
+kz00582,kazsandra,kas000115kas,,"Жақсы телефон мынау, алсаң өкінбейсің.",0,market,5,regex_negative_llm_spotchecked,1,0,,581
+kz00593,kazsandra,pla091994pla,,Котак шешен амы,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:котак,592
+kz00594,kazsandra,pla022040pla,,Жақсы керемет оңай,0,appstore,5,regex_negative_llm_spotchecked,1,0,,593
+kz00613,kazsandra,pla032783pla,,Заебал ондай нәрселер келе береді,1,appstore,4,regex_confirmed_by_llm,1,1,ru_eb:заебал,612
+kz00623,kazsandra,pla024890pla,,Хто я блесндерма? Блмисындер қотақбастар,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:қотақбастар,622
+kz00674,kazsandra,pla056444pla,,Котак жала,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:котак,673
+kz00679,kazsandra,pla014936pla,,1-сағат тапсырысты күттіріп қойып заказыма отмена жасады. Бұл бірінші рет болып тұрған дүние емес. Сіздерден көңілім қалды вольт. Енді өшіріп тастаймын сіздердің программаны енді тартпаспын 😡👎🏻 1-сағат күттірмей алдын ала ескертуге болар еді. Заказыңыз бармайды. Басқаға заказ берсеңіз деп! Жоқ ескертпедіңіздер. Адамның уақытын алып!,0,appstore,1,regex_negative_llm_spotchecked,1,0,,678
+kz00694,kazsandra,pla059109pla,,Көшірілмиді,0,appstore,1,regex_negative_llm_spotchecked,1,0,,693
+kz00698,kazsandra,pla120558pla,,Өй блəəə қуып кеткен не скачивайте фигня какая та десеңба😂,1,appstore,1,llm_corrected,1,-1,ru_euph:фигня,697
+kz00722,kazsandra,pla095139pla,,Ебат ойын,1,appstore,5,regex_confirmed_by_llm,1,1,ru_eb:ебат,721
+kz00724,kazsandra,pla048236pla,,"Ассалаумағалейкум! Өте ыңғайлы ұялы желі бірақ, оқитын жері яғни пайғамбардың (с.а.у) өмірбаянын оқиын десен өте қатты жарық екен... осы шамалы жабықтау түске ауыстырсаңыз... рахмет",0,appstore,5,regex_negative_llm_spotchecked,1,0,,723
+kz00731,kazsandra,pla077129pla,,Білә пиздтез ойын қорқынышты маған ұнады бес жұлдыз,1,appstore,1,regex_confirmed_by_llm,1,1,ru_pizd:пиздтез,730
+kz00736,kazsandra,pla081749pla,,Ой Блят тартылып бомайт,1,appstore,5,regex_confirmed_by_llm,1,1,ru_blya:блят,735
+kz00742,kazsandra,pla081684pla,,Ура ура анжела игра жаксы коремы катты💕💕,0,appstore,5,regex_negative_llm_spotchecked,1,0,,741
+kz00743,kazsandra,pla050989pla,,Буйтп басты шырытып сабак окп отпайм заебал осыны щгарган адам коты тусп касын пайдаға аспай🥰,1,appstore,5,regex_confirmed_by_llm,1,1,ru_eb:заебал,742
+kz00762,kazsandra,pla077593pla,,Аорзкхыұ атындағы қазақ ұлттық университетінің ректоры болып тағайындалды қазақ тілі ағылшын дене шынықтыру және спорт бөлімі сәулет және қала құрылысы газдандыру сумен жабдықтау инфрақұрылымды дамыту бағдарламасы туралы есептемелер облыс әкімдерінің аппарат құрылымы депутаттар қабылдау кестесі мәслихаттың депутаттығына кандидаттар,0,appstore,1,regex_negative_llm_spotchecked,1,0,,761
+kz00768,kazsandra,pla134659pla,,Дарагой қотақбастар,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақбастар,767
+kz00772,kazsandra,pla051097pla,,Мен логин паролымды жассамда кіре алмай жатырмын! 🥺 Мүмкін раборчики кіргізеді алазыдарма,0,appstore,1,regex_negative_llm_spotchecked,1,0,,771
+kz00813,kazsandra,pla013170pla,,Кіредитті төлей алатын адам гана алады тапсырыс берсем унамі атказ келеді не ушін тусінбеимін,0,appstore,1,regex_negative_llm_spotchecked,1,0,,812
+kz00814,kazsandra,pla009122pla,,Жок ыстемейды тыркелмейды,0,appstore,1,regex_negative_llm_spotchecked,1,0,,813
+kz00835,kazsandra,pla111044pla,,Қотақбастар Югта Автобус нехуя жоқ кім кінәлі Умный Транспорт Кінәлі щщс,1,appstore,1,regex_confirmed_by_llm,1,1,ru_xuj:хуя|kk_qotaq:қотақбастар,834
+kz00839,kazsandra,pla026217pla,,Қазақшасы толық емес,0,appstore,1,regex_negative_llm_spotchecked,1,0,,838
+kz00858,kazsandra,pla091262pla,,Нашар ойын шешеннін амын сгейндер сразу красный бере беред ойнамандар хуния ойын бұл гавнооо фуйййй мусор фууу,1,appstore,1,regex_confirmed_by_llm,1,1,ru_govno:гавно,857
+kz00859,kazsandra,pla092357pla,,Бля қашан ашылат,1,appstore,5,regex_confirmed_by_llm,1,1,ru_blya:бля,858
+kz00864,kazsandra,pla132791pla,,Негізі ютоб го жақ сырақ өйткені одан əр нəрсе тартып аласын ал мынада бартылмайды,0,appstore,1,regex_negative_llm_spotchecked,1,0,,863
+kz00880,kazsandra,pla092791pla,,"Қотақбас ойын таза. Сені шалып құлатқанда штрафной емес, бірақ сен қарсыласыңды құлатсаң обязательно штраф или пенальти береді. Қотақбастар.",1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:қотақбас,879
+kz00887,kazsandra,pla005598pla,,Кутты болсын,0,appstore,2,regex_negative_llm_spotchecked,1,0,,886
+kz00891,kazsandra,kas019697kas,,Өте тамаша. Жақсы пiсiредi.Рахмет Каспи. Өте сапалы пеш. Көңілiмнен шықты.,0,market,5,regex_negative_llm_spotchecked,1,0,,890
+kz00893,kazsandra,pla114084pla,,быр куны хуйня дахуя нехуя деген бала болыпты быр куны хуйня жогалып оны дахуя ыздеп нехуя таба алмапты,1,appstore,5,regex_confirmed_by_llm,1,1,ru_xuj:хуйня,892
+kz00896,kazsandra,pla111685pla,,жақсы врач уақытында қабылдаса база істеп тұрса,0,appstore,1,regex_negative_llm_spotchecked,1,0,,895
+kz00898,kazsandra,pla093745pla,,Бля Clas of clans ойнап келе жатқаныма 6жыл болды Жақсы ойнап кележатыр едім Деревенни стройтел Яғни Екінші түнгі қала Обнавление Болып зайбал шықты Ито Көрсететің Нұсқаулығыда жоқ Наху Обнавление Жасайсыңдар сука Онжыл Ойнап кележатқан адамдардың өзі Түсіңбей чо за хуня деп жатқан шығар Крч 1ай уақыт берем Қайтадаң бұрынғыдай қылыңдар әйтпесе Болмайды мынау 6жылдаң Бері мұндай болатының білгенде Қотаққада ойнамас едм шшс Атак жоғары жақта таныстарым Бар Бір звонок Приложение жабыладығо атак .,1,appstore,1,regex_confirmed_by_llm,1,1,ru_blya:бля|ru_suka:сука|kk_qotaq:қотаққада,897
+kz00921,kazsandra,pla015900pla,,Қотақ бас приложения,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:қотақ,920
+kz00923,kazsandra,pla077157pla,,Маған ұнаймады өйткені қуа береді айнала береді мынаны ойғанша Rodloxтан ойнаған дұрыс,0,appstore,1,regex_negative_llm_spotchecked,1,0,,922
+kz00926,kazsandra,pla024150pla,,кредитти толық төлеу ге кресем истемеи жатыр бұрын шығып тұратынын еди жартылаи толем барлығы истемиди,0,appstore,1,regex_negative_llm_spotchecked,1,0,,925
+kz00938,kazsandra,pla056090pla,,Өте жаман 👎0 жұлдыз,0,appstore,1,regex_negative_llm_spotchecked,1,0,,937
+kz00961,kazsandra,pla034666pla,,Стасам Амдарынызды шыгарам,1,appstore,1,llm_corrected,1,0,,960
+kz00979,kazsandra,pla052774pla,,Өттте жақсы программа. Ыңғайлы әрі сапалы.,0,appstore,5,regex_negative_llm_spotchecked,1,0,,978
+kz00985,kazsandra,pla019453pla,,сіктімде қол қойдым,1,appstore,1,regex_confirmed_by_llm,1,1,kk_sik:сіктімде,984
+kz00986,kazsandra,pla059723pla,,Өте керемет Nyrchyak,0,appstore,5,regex_negative_llm_spotchecked,1,0,,985
+kz01003,kazsandra,pla016166pla,,Татақ,0,appstore,5,regex_negative_llm_spotchecked,1,0,,1002
+kz01016,kazsandra,pla056243pla,,Өте күшті барлық Майнкрафт қа үй салуға болады,0,appstore,5,regex_negative_llm_spotchecked,1,0,,1015
+kz01019,kazsandra,pla112381pla,,Котак Ам,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:котак,1018
+kz01046,kazsandra,pla092097pla,,Мал бля неге менін командам шалса рескы сары немесе қызыл қағаз беред ал боттар түк берми ойын әрі қалай жалғасад овчем мына ойын гавно😡😡😡,1,appstore,1,regex_confirmed_by_llm,1,1,ru_blya:бля|ru_govno:гавно,1045
+kz01057,kazsandra,gis003129gis,,"Қазақстанның ең мықты оқу орындар осында, интеллегенция көп шықты біздің қаламыздан",0,mapping,5,regex_negative_llm_spotchecked,1,0,,1056
+kz01064,kazsandra,pla024083pla,,"Өте ыңғайлы, жақсы әрі қолайлы 👍🏻",0,appstore,5,regex_negative_llm_spotchecked,1,0,,1063
+kz01071,kazsandra,pla072050pla,,Е бля зайбал няғп атылмайд бассам щешең баслмайд анау экранды айрп сндрдм әкең ауы,1,appstore,2,regex_confirmed_by_llm,1,1,ru_blya:бля,1070
+kz01075,kazsandra,gis003245gis,,"Майлары жаксы арзан,унеси осы жерден ауыстырамын,кызметкерлериде оте жаксы кызмет корсетеди.рахмет ени",0,mapping,5,regex_negative_llm_spotchecked,1,0,,1074
+kz01095,kazsandra,pla086712pla,,Зор оиын екен милы катырып каиып болады екен атасынын басы каип котак оиын екен маған барлығын келісіңдер,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:котак,1094
+kz01106,kazsandra,pla020607pla,,Нармални жалептер,1,appstore,5,llm_corrected,1,-1,kk_zhalap:жалептер,1105
+kz01149,kazsandra,pla116279pla,,Өте күшті және жақсы,0,appstore,1,regex_negative_llm_spotchecked,1,0,,1148
+kz01156,kazsandra,gis002566gis,,"Бугин 23.08.2021 направлениемен келдим аяагым ауыр 38 апта приёмный покойга гинеколог узиге жиберды 1,5 сагат отырып кирдым ал енды кайтып врачка келсем узиды дурыс жибериеген сонда тек уакытымды куртым сагат 2 ден бастап осы больницада жайдан жай журдым енды узидегы врачтарга звандаса билмимыз дит кым быледы сонда не понимаю",0,mapping,1,regex_negative_llm_spotchecked,1,0,,1155
+kz01173,kazsandra,pla002149pla,,Мына ойынынды сігейін малдар ешактар ойын күшті сендер мал мал,1,appstore,1,regex_confirmed_by_llm,1,1,kk_sik:сігейін,1172
+kz01179,kazsandra,pla079665pla,,Менің жасым 34 те ойнағаныма 10 жыл болды өте керемет екен жасым 24 жастан бері ойнаймын кәзіргі жасым 34 😎😎😎😎😎😎,0,appstore,5,regex_negative_llm_spotchecked,1,0,,1178
+kz01185,kazsandra,pla116435pla,,Секс ойнга.уксайд бравл старт кейде котакка уксайды🤣🤣🤣🤣🤣😈😈😈😈,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:котакка,1184
+kz01188,kazsandra,pla094992pla,,Асалаумағалеикүум достар недегн мен әжептеуір оиын коріңдер үнағанға ұнаиды ұнамағанға ұнамаиды,0,appstore,5,regex_negative_llm_spotchecked,1,0,,1186
+kz01189,kazsandra,pla093222pla,,Дахуярет өшіріп қайта ойнағам,1,appstore,5,regex_confirmed_by_llm,1,1,ru_xuj:хуярет,1187
+kz01190,kazsandra,pla023268pla,,"В п*зду бұндай приложение банктарыңның бір жерін с*гейін..жылына бір рет распродажа ұйымдастырамыз деп шамаларың келмей отырсыңдар..сол жұмаларыңның кесірінен системаларың маңырап басқа услугаларды төлей алмай жатырмыз..ақша алуын алып ап..системаларыңда алынбады деп көрінеді...ал мен өзім төлеген сумма приложениеде төленбеген боп көрінеді..к*ттерің шыдамаса,қолдарыңнан келмесе несіне каспи жұма деп рекламма жасап к*т жыртып жүрсіңдер..бишарабанк",1,appstore,1,regex_confirmed_by_llm,1,1,m_pizd:п*зд|m_sik:с*гейін,1188
+kz01206,kazsandra,pla111152pla,,Наху создавать етесиндер акыры дым истемит не Адам жок не таксовать етеин десен Адам жок Индрайвер жаксы екенин тагы доказать ети,1,appstore,1,llm_corrected,1,0,,1204
+kz01214,kazsandra,pla038168pla,,Өте жақсы программа. Әр автобустын уақытын білуге болады.,0,appstore,5,regex_negative_llm_spotchecked,1,0,,1212
+kz01219,kazsandra,kas021913kas,,"Өте керемет. Жуқа, ауа жақсы өтеді. Аллергия бермейды. Қанша киып журседе беты құрғақ болып тұрады екен.",0,market,5,regex_negative_llm_spotchecked,1,0,,1217
+kz01222,kazsandra,pla001348pla,,Ешкім алмасын бұл банктен күні не 300 теңге ден косыла телефон алгам пидараз банк екен алуға кеңес бермеймін.👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎,1,appstore,1,regex_confirmed_by_llm,1,1,ru_pidor:пидараз,1220
+kz01247,kazsandra,pla104316pla,,Алла Тагала истеринизге береке берсин,0,appstore,5,regex_negative_llm_spotchecked,1,0,,1245
+kz01253,kazsandra,pla005680pla,,Маған бұл оиын өте күшті бұл маған ұнайды,0,appstore,5,regex_negative_llm_spotchecked,1,0,,1251
+kz01266,kazsandra,pla119708pla,,Ote kushti eken,0,appstore,5,regex_negative_llm_spotchecked,1,0,,1264
+kz01268,kazsandra,pla009641pla,,Pidaraz gavno suka yibani pirilajeniya urot yibani jalap it sikur,1,appstore,1,regex_confirmed_by_llm,1,1,ru_lat:pidaraz,1266
+kz01282,kazsandra,gis002014gis,,Қазақ тілінде қызмет көрсетпейді,0,mapping,1,regex_negative_llm_spotchecked,1,0,,1280
+kz01294,kazsandra,pla133467pla,,бұл қолданба бес жұлдызға ұнайды.,0,appstore,5,regex_negative_llm_spotchecked,1,0,,1292
+kz01296,kazsandra,pla076149pla,,Блин оте кушты,0,appstore,5,llm_resolved_weak,1,-1,ru_euph:блин,1294
+kz01297,kazsandra,map001803map,,"Ұлттық мұражай. Өте үлкен, өте әдемі, қаншама миллиард қаражат кетті екен... Өты қымбат екені көрініп тұр. Зал көп, бүгін 4 сағат жүріп барлық жәдігерді көріп бітіре алмадым, мұражай жабылып қалды. Жақсы жасапты",0,mapping,5,regex_negative_llm_spotchecked,1,0,,1295
+kz01325,kazsandra,pla091046pla,,Өте қотақ оиын,1,appstore,3,regex_confirmed_by_llm,1,1,kk_qotaq:қотақ,1323
+kz01350,kazsandra,pla073461pla,,Котакты жемеш🖕😑🖕,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:котакты,1348
+kz01354,kazsandra,pla073497pla,,Барыс тарас онша емес ешак мал қотақбас далбаиоп емдеу осы отынды оинаитын адамдар мал ешак сындар түсідіідерма далбандар қотақбастар пушкин далбаиоптар нау қотақтар,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:қотақбас,1352
+kz01358,kazsandra,pla026297pla,,Өте нашар.Не мазақ фотоға түсіріп бетіңызді шеңбер ішіне апарыңыз дейді апарсаң сол күйі тұрасың жалғасы жоқ.Өте төмен бағаламаймын еңбегіңізді автор. Асылып немесе атыла салыңыз қанды ішпей бүкіл адамның. Қашан қоясыңдар тупитеткенді? Тағы 30-жыл күтуіміз қажет пе жүйе өзгерісін.Салық комитетінеде барсаң осы тупитетіп жұмыс істеуі сапасы өте төмен. Бір сөзбен айтқанда сіктіңдер.,1,appstore,1,regex_confirmed_by_llm,1,1,kk_sik:сіктіңдер,1356
+kz01363,kazsandra,pla019562pla,,"Скоро у вас таких оценок будет много, как в choco.life прям🥰. Не деген масқара мнау? Қазақ тілін мазақ қылып тұрсындар ма? Ешнәрсе қазақ тілінде жоқ, тіпті осы ""арбуз.кз"" дегені несі?. Не деген масқара мнау? Орыстандырудан осылай біз қалай құтыламыз? Орыс фашисттардың тілінде сөйлей беріңдер. Русифицированные ###",0,appstore,1,regex_negative_llm_spotchecked,1,0,,1361
+kz01366,kazsandra,map000617map,,"Менің інім 4-ші күні больницада, ешқандай результат жоқ! Врачтар əлі неден екенін таппай жатыр...!!! Не масқара?!",0,mapping,1,regex_negative_llm_spotchecked,1,0,,1364
+kz01369,kazsandra,gis003440gis,,"Өте жақсы қызмет, әрқашан тұрақты клиентпін, 4ші рет ауыстырудамын, респект!",0,mapping,5,regex_negative_llm_spotchecked,1,0,,1367
+kz01410,kazsandra,pla091171pla,,Мал тартылмаған қотақ,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақ,1408
+kz01415,kazsandra,pla009105pla,,Ебать нахуи пиздец оиын тек ең жаман осы осы оиынңын флешкасы ол тек интернетпен оинаиды интернет сетсіз болса Бомба оиынғо 😎,1,appstore,5,regex_confirmed_by_llm,1,1,ru_xuj:хуи|ru_pizd:пиздец|ru_eb:ебать,1413
+kz01418,kazsandra,pla031922pla,,"Қотақбастар қашан сеть жақсарады, тарифті көтердіңдер и жүрсіңдер қотақ сорып",1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақбастар,1416
+kz01422,kazsandra,pla013199pla,,_100 %унады,0,appstore,3,regex_negative_llm_spotchecked,1,0,,1420
+kz01426,kazsandra,pla071212pla,,Алихан көтіңді қысшы өзіңсің қотақбас,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:қотақбас|kk_kot:көтіңді,1424
+kz01453,kazsandra,gis001668gis,,0.5 пепси 790 тенге қымбат собой болмайды дейді халыққа емес қалталарына жұмыс істейді,0,mapping,1,regex_negative_llm_spotchecked,1,0,,1451
+kz01464,kazsandra,pla001321pla,,Жезқазған қаласы жоқ,0,appstore,1,regex_negative_llm_spotchecked,1,0,,1462
+kz01478,kazsandra,pla007057pla,,Амшық Қаншық қотақ қоидымда сіктім,1,appstore,5,regex_confirmed_by_llm,1,1,kk_sik:сіктім|kk_qotaq:қотақ,1476
+kz01498,kazsandra,pla071419pla,,Реклама 100 рет боладығо несі бұның ойын 💩😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡 мың реклама болдығо скатина ойын емес ХАКЕР🍌,0,appstore,1,regex_negative_llm_spotchecked,1,0,,1496
+kz01504,kazsandra,pla063857pla,,Бұл қолданба мен үшін қиын уақытта өте ыңғайлы болды! Менен үлкен рахмет!,0,appstore,5,regex_negative_llm_spotchecked,1,0,,1502
+kz01506,kazsandra,pla005388pla,,Ұнамады қотақ мал далбайов,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақ,1504
+kz01522,kazsandra,pla005117pla,,Казакстанга келема кызылордага,0,appstore,1,regex_negative_llm_spotchecked,1,0,,1520
+kz01525,kazsandra,gis002111gis,,Назарбаевтың қолын алып тастау керек,0,mapping,1,regex_negative_llm_spotchecked,1,0,,1523
+kz01526,kazsandra,pla028420pla,,"Мендегі мәтін қазақша, жарнама беру барысында түсі көк деп жаздым, орысша голубой деп көрсетіп тұр, синий деп көрсетуі тиіс болатын",0,appstore,1,regex_negative_llm_spotchecked,1,0,,1524
+kz01532,kazsandra,pla020264pla,,мой белайн өте керемет придлажениа бірақ номерді теріп саздатетсем ашибка номер тіркелмеген диді бірақ менің номерім тіркеліп тұр оны тексергем,0,appstore,5,regex_negative_llm_spotchecked,1,0,,1530
+kz01537,kazsandra,pla091996pla,,Жалеп арен тартым брак қызык ойын екен,1,appstore,5,llm_corrected,1,-1,kk_zhalap:жалеп,1535
+kz01558,kazsandra,pla090920pla,,Зор ойын сәл пес дегендей кнопкалар қойса зор болар еді,0,appstore,5,regex_negative_llm_spotchecked,1,0,,1556
+kz01587,kazsandra,pla057413pla,,Маған да ұнайды. Себебі бұл ойын апамда бар,0,appstore,1,regex_negative_llm_spotchecked,1,0,,1585
+kz01598,kazsandra,pla120491pla,,ENHYPEN үшін тартудамын❤😩✅,0,appstore,5,regex_negative_llm_spotchecked,1,0,,1596
+kz01617,kazsandra,pla085041pla,,"Өте жақсы ойын,маған қатты ұнады керемет!!!",0,appstore,5,regex_negative_llm_spotchecked,1,0,,1615
+kz01634,kazsandra,pla089624pla,,Қотақтың басы да қызық емес,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:қотақтың,1632
+kz01637,kazsandra,pla079860pla,,"Паркур ойнай алмасаңдар ойнамайақойыңдар, НЕРВЛАРЫҢДЫ ЖЕЙДІ !!!!!",0,appstore,1,regex_negative_llm_spotchecked,1,0,,1635
+kz01641,kazsandra,pla133478pla,,ҚАЗАҚ ТІЛІН ҚОЛДАНЫСҚА ЕНГІЗІҢІЗ.,0,appstore,2,regex_negative_llm_spotchecked,1,0,,1639
+kz01651,kazsandra,pla108804pla,,"Қандай құпиялық саясат ол, түсінікті түрде жазсаңыздар боладығой , и вобще не керегі бар оның!",0,appstore,1,regex_negative_llm_spotchecked,1,0,,1649
+kz01652,kazsandra,pla103412pla,,Колайлы.жаксы.,0,appstore,5,regex_negative_llm_spotchecked,1,0,,1650
+kz01706,kazsandra,pla073978pla,,Уатф фак тупойлар өңшең гари потер котің котыр майкл жексн котағм жепсің бір көтерің кір,1,appstore,5,regex_confirmed_by_llm,1,1,kk_kot:котің,1704
+kz01714,kazsandra,pla131544pla,,Ютуб ҚОТАҚ БАС,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:қотақ,1712
+kz01725,kazsandra,pla017252pla,,"Е тик токтар шешеннің амы қотақтар, е тик токтар амы шыққан қотақтар қотақтар",1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақтар,1723
+kz01730,kazsandra,pla037907pla,,Қазақстан заңын қазақша жазылсын Шірімей,0,appstore,1,regex_negative_llm_spotchecked,1,0,,1728
+kz01743,kazsandra,pla133082pla,,Фууу бля унамады мынау зайбалл,1,appstore,1,regex_confirmed_by_llm,1,1,ru_blya:бля,1741
+kz01761,kazsandra,pla009981pla,,Келді маған номір рахмет 😊😊😊 сенбейтіндер бар болса келеді,0,appstore,5,regex_negative_llm_spotchecked,1,0,,1759
+kz01763,kazsandra,pla122425pla,,Өте жақсы қазақ кеибоарт,0,appstore,1,regex_negative_llm_spotchecked,1,0,,1761
+kz01771,kazsandra,pla032617pla,,Кридет алайындеп едим бермейди неге. Барин толедик просрочка жок,0,appstore,1,regex_negative_llm_spotchecked,1,0,,1769
+kz01781,kazsandra,pla061300pla,,Маган тартылмай жатр катты ойнагым келеди менин Атым асылзада Мен Гулзадага салем жолдаймын менин созимди колдасан мен сени жаксы корем маган пикир жаз окей мен бул жулдызды 5еу кылам сен колдап кет мени саган сенем Жане менин досым Жанерке ол оте акылды Гулзадада мен оларды жаксы корем олар менин киындыкта жалгыз тастамайды колдап кет бауырым тек мен ушин емес Жанерке мен Гулзада ушин егер кыздарды колдамаймын десен Арнур Нурболат Азамат ушин кане колдап кетши отинем пжжжжжжжжжжжжжжж бауырым,0,appstore,1,regex_negative_llm_spotchecked,1,0,,1779
+kz01802,kazsandra,pla073055pla,,Топ базар жоқ,0,appstore,5,regex_negative_llm_spotchecked,1,0,,1800
+kz01809,kazsandra,pla010390pla,,Керемет жансың,0,appstore,5,regex_negative_llm_spotchecked,1,0,,1807
+kz01811,kazsandra,kas003204kas,,"Өте қатты қыздырады, мен әлі күнге дейін нәтиже көрмедім. Жеткізу жылдам.",0,market,2,regex_negative_llm_spotchecked,1,0,,1809
+kz01812,kazsandra,pla017247pla,,1)18+ балағат сөздерге жол берілген 2)адамды жынды қылып жіберген 3)барлық адам түсіреді неге не қызық бар 4)түсірген адам ешакбас 5)зблар 6)адам түсірмейтіндей қылыптаста 7)18+ көп оларды жой 8) көп несе фф болсын 9)қазақстанның 15% жынды болып кеткен 10)крч көтті қыста програманы жап💩,0,appstore,1,regex_negative_llm_spotchecked,1,0,,1810
+kz01817,kazsandra,pla106807pla,,Намаз уақыты əрқашан азан айтып белгі беріп тұрады. Алла жар болсын!,0,appstore,5,regex_negative_llm_spotchecked,1,0,,1815
+kz01833,kazsandra,pla001461pla,,"блин бұрынғысы күштірек еді , жаңарғанан кейін малский ойын болып кеткен.Кірмейді ғой",0,appstore,1,llm_resolved_weak,1,-1,ru_euph:блин,1831
+kz01850,kazsandra,pla029917pla,,Katip kala beredi,0,appstore,1,regex_negative_llm_spotchecked,1,0,,1848
+kz01852,kazsandra,kas006883kas,,Бағасы тиімді.Тез қызып кетеді.,0,market,3,regex_negative_llm_spotchecked,1,0,,1850
+kz01857,kazsandra,pla042963pla,,Жаман фуууууууу 🤢🤢басында жасалат содан кейін жасалмайт жаман 👎жазбаяк койыныз,0,appstore,1,regex_negative_llm_spotchecked,1,0,,1855
+kz01875,kazsandra,pla112243pla,,"""""Аяу"""" уау базар жоқ",0,appstore,5,regex_negative_llm_spotchecked,1,0,,1873
+kz01894,kazsandra,pla016880pla,,Менің атым қотақ бам,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:қотақ,1892
+kz01925,kazsandra,pla119674pla,,Koti boq til istemet,1,appstore,1,regex_confirmed_by_llm,1,1,kk_boq:boq,1923
+kz01926,kazsandra,pla064811pla,,Сені сіңген маған ешкім үнамайды сені сігем,1,appstore,5,regex_confirmed_by_llm,1,1,kk_sik:сігем,1924
+kz01932,kazsandra,pla080827pla,,"Қатты емес ,бірақ жақсы",0,appstore,2,regex_negative_llm_spotchecked,1,0,,1930
+kz01934,kazsandra,pla062912pla,,Не истеп койгансындар Кире алмайм Бир ай болды срок истекло деп,0,appstore,1,regex_negative_llm_spotchecked,1,0,,1932
+kz01944,kazsandra,pla085042pla,,Ишак қотак сен мына оиынын жаман,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотак,1942
+kz01950,kazsandra,kit000535kit,,Жаман 👎дм ашлмаит тіркелсендерде ашылмаит,0,bookstore,1,regex_negative_llm_spotchecked,1,0,,1948
+kz01951,kazsandra,kas005908kas,,"Қызыма сыйлыққа алып едік, күшті екен, ұнады, қызым қуанып қалды, тағы аламын екі қызыма.",0,market,1,regex_negative_llm_spotchecked,1,0,,1949
+kz01959,kazsandra,pla075077pla,,Сіктім да қол қойдым,1,appstore,1,regex_confirmed_by_llm,1,1,kk_sik:сіктім,1957
+kz01964,kazsandra,pla019556pla,,Тусініксіз тариф,0,appstore,1,regex_negative_llm_spotchecked,1,0,,1962
+kz01968,kazsandra,pla008932pla,,Сет өте нашар болған соң 2 сағат тартылып жатыр блин,0,appstore,5,llm_resolved_weak,1,-1,ru_euph:блин,1966
+kz01971,kazsandra,pla129271pla,,ебана айфоннан аумаи қалды,1,appstore,5,regex_confirmed_by_llm,1,1,ru_eb:ебана,1969
+kz01972,kazsandra,pla105451pla,,Ассаламуағалейкум дабыл мүлдем жасамайды,0,appstore,2,regex_negative_llm_spotchecked,1,0,,1970
+kz01990,kazsandra,kas005240kas,,"Рахмет тез жеткізді, көңілден шықты.",0,market,5,regex_negative_llm_spotchecked,1,0,,1988
+kz01994,kazsandra,pla098127pla,,Қызықты ойын екен ғой,0,appstore,1,regex_negative_llm_spotchecked,1,0,,1992
+kz02005,kazsandra,pla064750pla,,Ебат кушты ойы сиакты,1,appstore,5,regex_confirmed_by_llm,1,1,ru_eb:ебат,2003
+kz02051,kazsandra,pla091055pla,,Күшті ойын екен Мбаппе ні алдым уже,0,appstore,5,regex_negative_llm_spotchecked,1,0,,2048
+kz02064,kazsandra,kas000277kas,,"аза су - тіршілік көзі, бұл қондырғыға баға бере өтейін. Қондырғы өте ықшам, ең бастысы одан өңдеңліп шығатын су өте дәмді, тау бұлақтарының суы секілді. 3 күн болды қондырғаныма, көрші-көлем, ағайын-тума пайдаланып жатырмыз.",0,market,5,regex_negative_llm_spotchecked,1,0,,2061
+kz02068,kazsandra,pla118242pla,,Фу!! Жаман ұнамайд,0,appstore,2,regex_negative_llm_spotchecked,1,0,,2065
+kz02069,kazsandra,pla043221pla,,"полный реклама қотаққа да керек емес, әнәңдісігейіндер малдар тек өздерінің пайдасына шешілген, қотақбастар, 🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎 пидрлар сігіліп өліңдер",1,appstore,1,regex_confirmed_by_llm,1,1,ru_pidor:пидрлар|kk_sik:сігіліп|kk_qotaq:қотаққа,2066
+kz02072,kazsandra,pla123071pla,,Котакбасы,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:котакбасы,2069
+kz02079,kazsandra,pla021275pla,,Өте нашар магнумнан әкелу үшін .Тапсырыс бердім.Чекті бермей ұрыстық.Аляқтық барып тұрған.Не әкелгені жөнінде чекті талап еттім.Чек берілмейді деді.Алудан бас тарттым.Курерді тұрғызып қойып телефон шалдым.Сізге чек СМС арқылы келеді деумен болды.Ешкімге менің ісімді қайталауға кеңес бермеймін.Дұрыс іспен айналысып отырған жоқ.Аяқтықтың жоғарғы шегі.👎👎👎👎👎Міне саған баға.,0,appstore,1,regex_negative_llm_spotchecked,1,0,,2076
+kz02085,kazsandra,pla120443pla,,Өте күшті нағыз қазақтарға арналған кім осы стикерлерді боқтайды сол есек,0,appstore,5,llm_resolved_weak,1,-1,kk_boqtau:боқтайды,2082
+kz02086,kazsandra,pla079974pla,,Қотақбас емес ойынғои крч,1,appstore,4,regex_confirmed_by_llm,1,1,kk_qotaq:қотақбас,2083
+kz02099,kazsandra,pla106033pla,,Бесін екінті шам намаздарын ескертпей жатыр. Азан айтпайды.,0,appstore,1,regex_negative_llm_spotchecked,1,0,,2096
+kz02128,kazsandra,pla035815pla,,ой пизду казакша рэптер жок паражняк ко,1,appstore,1,regex_confirmed_by_llm,1,1,ru_pizd:пизду,2125
+kz02130,kazsandra,pla091786pla,,Ихтияр бірбале боқтанбай сөйле!👍👍👍👍👍,0,appstore,1,llm_resolved_weak,1,-1,kk_boqtau:боқтанбай,2127
+kz02149,kazsandra,pla112384pla,,Қотақ+ам=🔞🍑☻,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:қотақ,1018
+kz02168,kazsandra,pla012490pla,,Қотағым жегір шешең амы сігіл кете қотағым жемей,1,appstore,1,regex_confirmed_by_llm,1,1,kk_sik:сігіл,2165
+kz02174,kazsandra,pla081777pla,,өте керемет бірақ қыс неге болмайды 🥺,0,appstore,5,regex_negative_llm_spotchecked,1,0,,2171
+kz02198,kazsandra,kas024878kas,,"Қалтырап, дірілдеп сынайын деп тур.Бұрын осындай түрін алғанмын 5 жыл қолдандық, соңғы шыққандары өте әлсіз, үйде босқа тұр, қолданып жүрген жоқпыз.",0,market,1,regex_negative_llm_spotchecked,1,0,,2195
+kz02227,kazsandra,pla095512pla,,мал топас мегабайтымды алды ешак мал жынды,0,appstore,5,regex_negative_llm_spotchecked,1,0,,2224
+kz02240,kazsandra,pla123336pla,,Рақмет котакбас,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:котакбас,2237
+kz02241,kazsandra,pla104371pla,,Өте пайдалы.Алла разы болсын сіздерден.,0,appstore,5,regex_negative_llm_spotchecked,1,0,,2238
+kz02244,kazsandra,kas014638kas,,"Тура суреттегідей, бағасына сай, әдемі, жиналуы да жылдам.",0,market,5,regex_negative_llm_spotchecked,1,0,,2241
+kz02250,kazsandra,pla069854pla,,Бляяя титанға жетібедім обнова шығып қалдыыы туууу☹️☹️☹️😭қаитадан бастаим,1,appstore,5,regex_confirmed_by_llm,1,1,ru_blya:бля,2247
+kz02254,kazsandra,pla128458pla,,<NAME> казахша аудармасы жазылуы дурыс емес,0,appstore,1,regex_negative_llm_spotchecked,1,0,,2251
+kz02261,kazsandra,pla065362pla,,Қотақ бостар арасындаааа,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:қотақ,2258
+kz02292,kazsandra,pla129587pla,,Сабақ кестесі бойынша мәмілелер бір нәрсе сұрасам болама болмайма екен мен саған айтып жатырмын өзіңіз қалайсыздар ораза ұстауға болмайды ғой деп ойлап едім бүгін алғыс айту күніне арналған тәрбие сағаты болады екен деп едім ғой енді қашан келесің дер екен,0,appstore,1,regex_negative_llm_spotchecked,1,0,,2288
+kz02299,kazsandra,pla089116pla,,Бля маган ойын лактырылмайт 100-деп тұра берет,1,appstore,1,regex_confirmed_by_llm,1,1,ru_blya:бля,2295
+kz02301,kazsandra,pla108296pla,,"Бляя, барып кел шауып кел гой мынау. Молодцы",1,appstore,5,regex_confirmed_by_llm,1,1,ru_blya:бляя,2297
+kz02314,kazsandra,pla006099pla,,Базар жоқ күштті маған қатттттты ұнады,0,appstore,5,regex_negative_llm_spotchecked,1,0,,2310
+kz02324,kazsandra,kas000509kas,,Әзірге барлығы ойдағыдай.,0,market,5,regex_negative_llm_spotchecked,1,0,,2320
+kz02332,kazsandra,pla045278pla,,Жаксы шығарған Алла Разы БОЛСЫН,0,appstore,2,regex_negative_llm_spotchecked,1,0,,2328
+kz02339,kazsandra,pla002685pla,,Малғұн ит Цукерберг,0,appstore,1,regex_negative_llm_spotchecked,1,0,,2335
+kz02343,kazsandra,pla002379pla,,😇😇😇😇👍👍👍👍👍👍👍👍👍cool керемет,0,appstore,1,regex_negative_llm_spotchecked,1,0,,2339
+kz02344,kazsandra,pla024854pla,,Маган бугин 10000 тенге аударган онын 80500 Гана келди калганы жок бастысы мен жол ережесин бузды тыныштыкты бузды деп айып тагып 15000 штрап салып картошкамды блокка койып койыпты оларды кай калада кай жерде бузганымды Ким устаганнын Аты жонин жане жазган кагазын атап отиниздер Алде осыдан 15 - 20 кун бурын сиздин банк теледидардан шулап халык акшаларын ала алмай артынан алгандай мениде сондайга жазып жиберген жоксыздарма мен кай жерде калай жургенимди билем отинем жаксылап тексерип бериниздер,0,appstore,1,regex_negative_llm_spotchecked,1,0,,2340
+kz02346,kazsandra,pla031886pla,,Разработчиктер п а ш о л н а х у интернет вобше ұстамай и тағы тарифтеріңді 30 күн емес 29күн ғана қолдана аласың,0,appstore,1,regex_negative_llm_spotchecked,1,0,,2342
+kz02349,kazsandra,pla081018pla,,Пиздец кызык,1,appstore,5,regex_confirmed_by_llm,1,1,ru_pizd:пиздец,145
+kz02361,kazsandra,pla077760pla,,Котак шешен,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:котак,2357
+kz02367,kazsandra,pla117399pla,,Qazaqşasy qaida. Zañymyzdy nege syilamaidy,0,appstore,1,regex_negative_llm_spotchecked,1,0,,2363
+kz02378,kazsandra,pla038166pla,,Нашар болып кеттіғой кейбір маршруттарды көрсетпейді,0,appstore,1,regex_negative_llm_spotchecked,1,0,,2374
+kz02381,kazsandra,pla078433pla,,Котак малдар сол ушин 1-жулдыз дал******ба**йо*п,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:котак,2377
+kz02386,kazsandra,kas024541kas,,"Өте керемет арба, көңілімнен шықты. Басқаларға да алуға кеңес беремін. Жеткізу жылдам болды, үш күн ерте келді. Каспиге рахмет.",0,market,5,regex_negative_llm_spotchecked,1,0,,2382
+kz02391,kazsandra,pla059599pla,,Жалпы бұл керемет бірақ түн болып азан болғанда өшіп қалады соны өшпитін қылса жақсы болар еді,0,appstore,1,regex_negative_llm_spotchecked,1,0,,2387
+kz02404,kazsandra,pla059866pla,,Шешеннын амы оиналад котакпастар,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:котакпастар,2400
+kz02413,kazsandra,pla051078pla,,Фу малдар че за говно 2 ге шыгам сендердин кестериннен химияга сендер косылгалы бери 4 ке шыгып журм,1,appstore,1,regex_confirmed_by_llm,1,1,ru_govno:говно,2409
+kz02423,kazsandra,pla129015pla,,Тексть ке басқада түстерді енгізсе керемет болар еді🤏,0,appstore,4,regex_negative_llm_spotchecked,1,0,,2419
+kz02426,kazsandra,gis001147gis,,Бургер өте тәмді,0,mapping,5,regex_negative_llm_spotchecked,1,0,,2422
+kz02427,kazsandra,pla036407pla,,Керемет қой мынау,0,appstore,5,regex_negative_llm_spotchecked,1,0,,2423
+kz02437,kazsandra,pla070538pla,,қотақ шешеңнің амы ұнады не гаху маған барға 1000000 алпын салып бер сосын 500000 алмаз бер бермеисіңба онда қотақтың бірбасы ауру білә қотақ түріде қотақ сігеиінді блә салып бер наху түсіңдіңба мені оқыған адам осы кампанианың шығарған адамына бер оқысын түсіндіңба мені қотақбас,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақ,2433
+kz02456,kazsandra,pla075670pla,,Қайттан келш,0,appstore,5,regex_negative_llm_spotchecked,1,0,,2452
+kz02475,kazsandra,pla111670pla,,Лабораторилық анализдар ашылмайды,0,appstore,1,regex_negative_llm_spotchecked,1,0,,2471
+kz02494,kazsandra,kas026023kas,,"Қызыма қатты ұнады, көлемі үлкен, әдемі екен.",0,market,5,regex_negative_llm_spotchecked,1,0,,2490
+kz02503,kazsandra,pla125410pla,,Орстар котакбас казактар алгааа,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:котакбас,2499
+kz02510,kazsandra,pla071388pla,,қотақ наху далб мвл қотақ жақсы бұдан,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:қотақ,2506
+kz02516,kazsandra,pla017054pla,,<NAME>: өзің задолбал түсіндіңба. Қырғыз босаң көтіңді қыс. Түсіңдіңба!!!???<NAME>. Маладес. Тик ток жақсы бірақ ҚАЗАҚ тілін шынымен қосу керек. Қазақтар орысша емес Қазақша сөйлесеңдерші! Өз тілімізбен!,1,appstore,5,regex_confirmed_by_llm,1,1,kk_kot:көтіңді,2512
+kz02566,kazsandra,pla116664pla,,Котакбай го бул кате болса онда ол кунә болады шатастырып алып жатыр неге басылмай мен алам ба донотерски сет куп мен алам вк ашпаган бар кейн мен алам вк жаз айларында құрғап қалады да айт кигашбек екеуіміз саган прокачкы екі мың жыл бұрын пайда болған кезде ғана емес сонымен қатар ол кунә болады шатастырып алып жатыр менде берем деп құлап түсіпті,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:котакбай,2562
+kz02592,kazsandra,pla065666pla,,жаман екен котақ ам ешек мал далбаеп ойнағым келмейд фууууууууууууууууууууууууууууууууууууууууууууууууууууууууууу жын ойын фуууууууууууууууууууууууууууууууууууууууу единцанын барлыгы кетті осы үшін оданша FREE FIRE ойнан мыкты ойын,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:котақ,2588
+kz02602,kazsandra,pla098077pla,,Күшті ойланып істит,0,appstore,5,regex_negative_llm_spotchecked,1,0,,2598
+kz02648,kazsandra,pla098583pla,,Өте керемет ойын пиздец ойын разработшик,1,appstore,5,regex_confirmed_by_llm,1,1,ru_pizd:пиздец,2643
+kz02656,kazsandra,pla128292pla,,"Бастапқы әріп қойылады бірақ ақаулар бар мысалы бірінші әріп дәу болып жазылады бірақ пернетақтада дәу болып тұрмайды ол үшін қайта шығып кіру керек. сосын сөз арасын бөлу үшін пробелды 2рет басу кереу болып қалды. Пернетақта бастапқы қалыпқа түсіп қала береді?! Сөздікте Құдай сақтасын неше түрлі боқ ауыз сөздер бар, бір сөз жазайын десең солар шығып тұрады мысал ретінде сол сөздерді өшірсеңіздер!",0,appstore,3,llm_corrected,1,1,kk_boq:боқ,2651
+kz02659,kazsandra,pla130598pla,,Ео орыстар шешен амы котактар сап сары котак шешен амы салбраган кессей ана басындағы хоботынды шщен амы,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:котактар,2654
+kz02680,kazsandra,kas004991kas,,"Тауар жақсы.Бірақ жеткізуге ырза емеспін, өтірік жазылған.",0,market,5,regex_negative_llm_spotchecked,1,0,,2675
+kz02693,kazsandra,pla020212pla,,"Күшті,керемет,мықты,рахмет!🤗",0,appstore,5,regex_negative_llm_spotchecked,1,0,,2688
+kz02697,kazsandra,pla049161pla,,Маган грантка тусу шанстарын корсеткенде 96 % корсеткен барлык жерге жаздым алайда грантка тусе алмадым. Joo kz дурыс истемейди,0,appstore,1,regex_negative_llm_spotchecked,1,0,,2692
+kz02708,kazsandra,pla126598pla,,Өте керемет Sozm joq,0,appstore,5,regex_negative_llm_spotchecked,1,0,,2703
+kz02719,kazsandra,pla079893pla,,котақбас мал ойын компания нy б nekki,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:котақбас,2714
+kz02726,kazsandra,pla018809pla,,TikTok бул кушти багдарлама ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡,0,appstore,5,regex_negative_llm_spotchecked,1,0,,2721
+kz02737,kazsandra,pla038244pla,,Автобус сағат қаншада остановкада тұратынын білмейміз осы бір минус,0,appstore,3,regex_negative_llm_spotchecked,1,0,,2732
+kz02749,kazsandra,pla051521pla,,Потом ол уже қуып қалған ом біреудін атына біреу кіреді. 2-3сағат сайын логин парол сұрайд сосын бір точка или бір орында бос калса кате деп шығады,0,appstore,1,regex_negative_llm_spotchecked,1,0,,2744
+kz02750,kazsandra,pla130779pla,,Мә пездес екен ема остыр қанда тартым,1,appstore,5,regex_confirmed_by_llm,1,1,ru_pizd:пездес,2745
+kz02772,kazsandra,pla122825pla,,Бұл приложений маған катты катты унады ойткені мында калаган фонынды ала аласын мұнда вапше минус жоок деп ойлаймын мен.,0,appstore,5,regex_negative_llm_spotchecked,1,0,,2767
+kz02773,kazsandra,pla038283pla,,Барлық машина қымбат. 1 ге 1 баға қойылған сияқты,0,appstore,1,regex_negative_llm_spotchecked,1,0,,2768
+kz02802,kazsandra,kas013922kas,,"Өте жақсы шкаф, өзіме ұнады.Каспи магазин жылдам әрі тез жеткізеді. Сапасы өте жақсы.",0,market,5,regex_negative_llm_spotchecked,1,0,,2797
+kz02824,kazsandra,pla010914pla,,зайбал неге тартылмай жатыр,1,appstore,1,llm_corrected,1,0,,2819
+kz02845,kazsandra,pla031161pla,,Жыберген отклиниктер ошпид архивте калады карапаим нарсего даже ватсапта бар ошру,0,appstore,1,regex_negative_llm_spotchecked,1,0,,2840
+kz02854,kazsandra,pla132757pla,,"Бес жұлдызға лайық. Мен жаңартып жатырм, сол үшін 4 жұлдызды баспадым. Осы қолданбаны, жаңартып болғанда 5 жұлдыз берем.",0,appstore,1,regex_negative_llm_spotchecked,1,0,,2849
+kz02862,kazsandra,pla016445pla,,Керемет рахмет сізге белгілер,0,appstore,5,regex_negative_llm_spotchecked,1,0,,2857
+kz02866,kazsandra,pla100635pla,,Бұл қотақпас деген нәрсе🤢🤮,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақпас,2861
+kz02871,kazsandra,pla116036pla,,гандонские приложение шещен амы иептваамт шщессгин сабак стин десем котак жеп ашпай парол сурайт сука мен кахтан блем забыл парол десем шещен амы код кемит маман амы олп кал сука,1,appstore,1,regex_confirmed_by_llm,1,1,ru_gandon:гандонские|ru_suka:сука|kk_qotaq:котак,2866
+kz02877,kazsandra,kas015516kas,,Иықты қажап тастайды.,0,market,1,regex_negative_llm_spotchecked,1,0,,2872
+kz02897,kazsandra,pla056130pla,,Ұнамайды қотақбас,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақбас,2892
+kz02902,kazsandra,pla129415pla,,Мал котак ҚАЗАҚСТАН ЖОҚ СОРЛЫ батикан турғо мал турынды сгин,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:котак,2897
+kz02903,kazsandra,pla067890pla,,Жаман емес өте күшті😘😘😘🤩🤩😍🥰🥰😍😍🤩🤩🤩😘😘😘😘😘😘😘🤜🤛,0,appstore,5,regex_negative_llm_spotchecked,1,0,,2898
+kz02929,kazsandra,pla030728pla,,Қолдарынан боқта келмейді есалаңдар. Паспорт қарай алмай отырық. Қолдарыннан келмесе беріңдер келетін адамдарға сапбастар. Жабысып аласыңдар коррупционерлер,1,appstore,1,llm_corrected,1,-1,kk_boqtau:боқта,2924
+kz02936,kazsandra,pla080475pla,,Қотақ зайбал екен,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:қотақ,2931
+kz02937,kazsandra,pla082026pla,,"Өз байланысты ,",0,appstore,1,regex_negative_llm_spotchecked,1,0,,2932
+kz02940,kazsandra,pla004730pla,,ен жаксы,0,appstore,5,regex_negative_llm_spotchecked,1,0,,2935
+kz02949,kazsandra,pla012074pla,,Өте те жақсы,0,appstore,5,regex_negative_llm_spotchecked,1,0,,2944
+kz02957,kazsandra,pla028590pla,,котагым колесаларына котакбастар сиктыго щещен амы,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:котакбастар,2952
+kz02959,kazsandra,pla075084pla,,Өте күшті бірақ көп қотақ жит,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:қотақ,2954
+kz02967,kazsandra,pla054446pla,,блят сука сіккен әңгі ме хуи қосылады иттің ғана программасы қай басыммен ұрындым оооои сорлы басым,1,appstore,1,regex_confirmed_by_llm,1,1,ru_xuj:хуи|ru_blya:блят|ru_suka:сука|kk_sik:сіккен,2962
+kz02973,kazsandra,pla067304pla,,👍👍зор оиын 100паиыз баға болса 100 қоиар едім❤,0,appstore,5,regex_negative_llm_spotchecked,1,0,,2968
+kz02974,kazsandra,pla090857pla,,ҚОТАҚ ШЕШЕҢ АМЫ АМ ОЙЫН,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақ,2969
+kz02981,kazsandra,pla120333pla,,маған ұнамады себебі түсірілмейді жаңарту керек деп тұр,0,appstore,1,regex_negative_llm_spotchecked,1,0,,2976
+kz02990,kazsandra,pla091532pla,,Zor oyin ekn 🤩🤩🤩🤩🤩🤩🤩🤩🤩,0,appstore,5,regex_negative_llm_spotchecked,1,0,,2985
+kz03000,kazsandra,pla009677pla,,Тұтынушыға деп ойласам тек қана кампания екен ЖАМАН ҰНАМАЙТ ОСЫНЫ ӨШІРЕМ,0,appstore,1,regex_negative_llm_spotchecked,1,0,,2995
+kz03004,kazsandra,pla067593pla,,Кет котак жемей,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:котак,2999
+kz03016,kazsandra,pla125306pla,,"Таңғажайып пернетақта. Мүмкін болса, күш қуаттарың жетсе, Қайсарларың жетсе, батыл болсаңдар, ЛАТИННИЦАНЫ ""нахуй"" алып тастаңдаршы. Құдайға қажеті жоқ нәжісті.",1,appstore,5,regex_confirmed_by_llm,1,1,ru_xuj:хуй,3011
+kz03025,kazsandra,pla108455pla,,Блинь күшті🌸😽🙀,0,appstore,5,llm_resolved_weak,1,-1,ru_euph:блин,3020
+kz03034,kazsandra,pla131134pla,,Қотақбастар наху зайбал ол ыстемеид зб,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақбастар,3029
+kz03035,kazsandra,pla064460pla,,Жумыс жасамай калды,0,appstore,1,regex_negative_llm_spotchecked,1,0,,3030
+kz03037,kazsandra,map003157map,,Бары жаксы Альхамдулиллях,0,mapping,5,regex_negative_llm_spotchecked,1,0,,3032
+kz03047,kazsandra,pla059939pla,,Kotaak bas ewak bla suka,1,appstore,4,regex_confirmed_by_llm,1,1,ru_lat:suka,3042
+kz03050,kazsandra,pla134060pla,,Бул оин емес брақ күшті екен! 🫰🏻🫰🏻🫰🏻🫰🏻🫰🏻🫰🏻🫰🏻🫰🏻🫰🏻🫰🏻❤😗,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3045
+kz03052,kazsandra,pla129603pla,,Эта котакбас далбайоп сгин нагу яптваймай шешенсыгин лог дурак котак.,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:котакбас,3047
+kz03055,kazsandra,pla111124pla,,"Оте кымта екен тариф, индрайверден озимиздин приложение жаксы шыгар деп коширсем. Заказ беруде оте коп уакытты алады и оте кымбат",0,appstore,1,regex_negative_llm_spotchecked,1,0,,3050
+kz03082,kazsandra,pla130099pla,,Барі тамаша. Ыңғайлы. Уакыт жогалтпаисын. Рақмет,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3077
+kz03088,kazsandra,pla134372pla,,Жаксы жазылады. Кенес беремин осы программаны!!!!*,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3083
+kz03090,kazsandra,pla010725pla,,гулмираш өзің нахуи,1,appstore,5,regex_confirmed_by_llm,1,1,ru_xuj:хуи,3085
+kz03094,kazsandra,pla116899pla,,Bopti,0,appstore,1,regex_negative_llm_spotchecked,1,0,,3089
+kz03105,kazsandra,pla075162pla,,Шш мал қотақбас оданда 7 қойды қоспайсынба,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақбас,3099
+kz03107,kazsandra,pla055129pla,,Өте жаксы жасалған программа,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3101
+kz03117,kazsandra,pla068883pla,,Шешең амы зайбал қотақбас сігем мамаңмен.,1,appstore,1,regex_confirmed_by_llm,1,1,kk_sik:сігем|kk_qotaq:қотақбас,3111
+kz03121,kazsandra,pla008477pla,,Кароче пиздец ойынғо жазсаң өкінбисің,1,appstore,5,regex_confirmed_by_llm,1,1,ru_pizd:пиздец,3115
+kz03122,kazsandra,pla021689pla,,"Керемет қолданба, ешқандай елде жоқ тек Қазақстанда 👍🏻",0,appstore,5,regex_negative_llm_spotchecked,1,0,,3116
+kz03142,kazsandra,pla078494pla,,Котакбас оиын коркыныштыда емес кім котагымды жалайды,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:котакбас,3136
+kz03146,kazsandra,pla093845pla,,Оте котак ойын,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:котак,1323
+kz03168,kazsandra,pla064316pla,,"Бір жұлдыздың өзі көп, неге шектеп тастаған, мен осы банктің тұрақтв кленті болсамда кіргізбеді «тек жақын кіленттерге қол жетімді, кешірініз» деп 😠😠😠, бірақ ешкімді кіргізбейді, өз кабинетімізге өзіміз кіруге болмайма 👎🏻",0,appstore,1,regex_negative_llm_spotchecked,1,0,,3162
+kz03172,kazsandra,pla101263pla,,Қотақты жеген əңгіме,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:қотақты,3166
+kz03180,kazsandra,pla069334pla,,Сігілгір оиын,1,appstore,1,regex_confirmed_by_llm,1,1,kk_sik:сігілгір,3174
+kz03200,kazsandra,pla067983pla,,Маған ҰНАҒАН ЖОҚ ЗАЕБАЛ,1,appstore,5,regex_confirmed_by_llm,1,1,ru_eb:заебал,3194
+kz03205,kazsandra,pla043228pla,,Не ешкім кометари жазбаған,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3199
+kz03207,kazsandra,kas018321kas,,Маған кір жуғыш машинасы өте ұнады. Барлық функциясымен алаңсыз кір жууға болады. Фора дүкеніне ризамын. Сатып алуға кеңес беремін.,0,market,5,regex_negative_llm_spotchecked,1,0,,3201
+kz03212,kazsandra,pla030427pla,,Беттеріңе айтайын былшиып кресло да отқаннан басқа қолдарыңнан боқ та келмейді ғой сендердің 5 ай болды 1эцк ны аша алмай отырмын себебі мына тупой программа ларың адамды танымай отыр биометрия ларың істемейді өздерің қандайсың дар жұмыс тарыңда сондай тупизм каспи сияқты болмайсың дар ма бірақ олар сияқты болу сендерге қайда 👎👎👎🤦‍♀️🤦‍♀️👎👎👎👎👎👎👎🤦‍♀️🤦‍♀️👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎,1,appstore,1,regex_confirmed_by_llm,1,1,kk_boq:боқ,3206
+kz03230,kazsandra,pla101338pla,,Неге видео тоқтап қала береді.? Кейде обновите страницу деп шығады. Әлде менде ғана солай ма? Жүйкені тоздырды шыны керек дұрыс көре алмай,0,appstore,4,regex_negative_llm_spotchecked,1,0,,3224
+kz03235,kazsandra,pla094402pla,,Қотақ тартылмайд сука бля зайбал ойын екен,1,appstore,1,regex_confirmed_by_llm,1,1,ru_blya:бля|ru_suka:сука|kk_qotaq:қотақ,3229
+kz03237,kazsandra,pla030284pla,,Өте нашар қолданба менің атыма тіркелген нһмерімді жазып кірейін десем жсн ге тіркелген нөмір бұрыннан бар диді бірақ ол нөмірім давно мусорға кетіп қалған жаңа тіркелген нөмрмен нехуя тіркемейді сукалар,1,appstore,1,regex_confirmed_by_llm,1,1,ru_xuj:хуя,3231
+kz03239,kazsandra,pla030250pla,,"Қолдары қол ма, қотақтың кірі ме жасаған адамдардың? Жасаған соң дұрыстап жасасаңдаршы, үкіметтің ақшасын жей бермей, йоптвайымайттар! Ал сендер, мынаны қадағалайтындар, қотақтың басына қарадыңдар ма, әлде берген аткаттарына ма? Қотақ жеген далбандар бләт!",1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақтың,3233
+kz03242,kazsandra,pla120265pla,,Мен енды жуктеп жатырмын кушты деген умыттемын😘😘,0,appstore,2,regex_negative_llm_spotchecked,1,0,,3236
+kz03248,kazsandra,pla110160pla,,Оңай деп атауын дұрыс қоймаған. Тонау деп атау керек бұл жүйені.,0,appstore,1,regex_negative_llm_spotchecked,1,0,,3242
+kz03285,kazsandra,pla129368pla,,Өте кушти екен мағсн унады,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3279
+kz03292,kazsandra,pla118408pla,,Нашар аналитика жоқ эфект жоқ вк арқылы аша алмайсың со үшін нашар,0,appstore,2,regex_negative_llm_spotchecked,1,0,,3286
+kz03322,kazsandra,pla044322pla,,"Ассалаумағалайкум! Барлығымызға Жұмақты нәсіп етсін! Өте керемет! Маған қатты ұнады. Қолайлы,ыңғайлы екен.",0,appstore,5,regex_negative_llm_spotchecked,1,0,,3316
+kz03324,kazsandra,pla017006pla,,Боқтау көп,0,appstore,1,llm_resolved_weak,1,-1,kk_boqtau:боқтау,3318
+kz03327,kazsandra,pla094566pla,,Пиздес қо,1,appstore,1,regex_confirmed_by_llm,1,1,ru_pizd:пиздес,3321
+kz03328,kazsandra,pla071545pla,,Тартылмайд пабг чорт фф сила,0,appstore,1,regex_negative_llm_spotchecked,1,0,,3322
+kz03333,kazsandra,pla095878pla,,керемет ойын менің көнілімнен шықты,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3327
+kz03337,kazsandra,pla036479pla,,Жақсы шүкір Алла,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3331
+kz03341,kazsandra,pla072744pla,,Өте керемет тартып алындар крч💓,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3335
+kz03348,kazsandra,pla063989pla,,Неге смс келмиді званок келип жаттыр алсаң өшірліп қалады ???,0,appstore,1,regex_negative_llm_spotchecked,1,0,,3342
+kz03355,kazsandra,pla026306pla,,"Қазақ тілі дұрыс толық пайдалынылмайды. Алтынай ханымға жауап. Қолданбаны ашып көріңіз мәзір батырмасын басыңыз, хабарландыру басып көріңіз алдыңыздан орыс тілінде жазулар шығады. Кеңес берушіге жазып көріңіз ә дегеннен орыс тілінде хабарлама келеді. Собшение деп көзіңе бақырайтып тұрып жазып қойған соны көрмесеңдерма.",0,appstore,1,regex_negative_llm_spotchecked,1,0,,3349
+kz03358,kazsandra,pla074474pla,,Өте керемет ойын бірақ сундуктан неге гаджет түсе береді маған бір лега түссінші,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3352
+kz03367,kazsandra,pla080036pla,,ойнап көрдім жақсы,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3361
+kz03376,kazsandra,pla002167pla,,Қотакбас Шенген кірмей қойды,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотакбас,3370
+kz03377,kazsandra,pla130843pla,,Үнайды ема♡,0,appstore,4,regex_negative_llm_spotchecked,1,0,,3371
+kz03391,kazsandra,pla032991pla,,Өттте керемет керек группаларды керек ойындарды скачать етіп алуга. Болады тіпті айфонский ватсап та бар крутие проги деп жазсаң шығады айфонский смайлик жасауғада болады😍😍😍😍😍😍😍😍телеграм ды жасап шығарган разроботчикке алғысым шексіз,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3385
+kz03407,kazsandra,kas003483kas,,"Өте күшті палетка, маған қатты ұнады.",0,market,5,regex_negative_llm_spotchecked,1,0,,3401
+kz03414,kazsandra,pla048224pla,,Керемет!!! Алла жар болсын!!! Сиздерге,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3408
+kz03423,kazsandra,pla005076pla,,Қотақ бастап амжегірлер,1,appstore,4,regex_confirmed_by_llm,1,1,kk_qotaq:қотақ,3417
+kz03430,kazsandra,pla071779pla,,Сендер неге фри фаерді сотқа бердіңдер сендер ғой көшіріп алған малдар,0,appstore,1,regex_negative_llm_spotchecked,1,0,,3424
+kz03432,kazsandra,pla104811pla,,Алла разы болсын.машаллах,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3426
+kz03433,kazsandra,pla113016pla,,Көті боқтар,1,appstore,1,llm_corrected,1,-1,kk_boqtau:боқтар,3427
+kz03438,kazsandra,pla059305pla,,Шешескин дым кызык емес Не үшін далбаёптар зор зор деп қотақ жеп жүрсіндер,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақ,3432
+kz03451,kazsandra,pla071627pla,,Қотақтарыңды жемеңбер интернет жетпесе неменеңе оттап тұрсын Тартсаң өкінбейсің,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:қотақтарыңды,3445
+kz03467,kazsandra,pla006036pla,,Es es күшті💪🤩🤗👌бес жұлд...,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3461
+kz03478,kazsandra,kas018032kas,,"Өте керемет. Жылыту барысында барлық жерін бірдей ысытады.Алуға кеңес беремін, өте жақсы қысқа толқынды пеш.",0,market,5,regex_negative_llm_spotchecked,1,0,,3472
+kz03500,kazsandra,pla021301pla,,"Ассалаумағалейкүм маған флип ұнайды кітаптары әсіресе,бірақ Қазақ тілін еңгізсе керемет болар еді",0,appstore,2,regex_negative_llm_spotchecked,1,0,,3494
+kz03511,kazsandra,pla131293pla,,Өте жаксы прлажение,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3505
+kz03559,kazsandra,kas012316kas,,"Таңдауымыз өзімізге ұнады. Жақсы есік. Сатылымда фотода қалай тұрды, солай шықты.Жеткізуі тегін болды. Тапсырысым Алматыдан келді. 2 тәулікке бұрын келді. Қуанып қалдым. Алып келген курьер жігіттер 4 қабатқа шығарып та берді. Көп рахмет.",0,market,5,regex_negative_llm_spotchecked,1,0,,3553
+kz03561,kazsandra,pla003858pla,,Кешке,0,appstore,1,regex_negative_llm_spotchecked,1,0,,3555
+kz03567,kazsandra,kas011946kas,,"Гаражға алғам, жақсы, тез жылытады.Бір жаманы - тоқты тірідей тартады.",0,market,4,regex_negative_llm_spotchecked,1,0,,3561
+kz03570,kazsandra,pla114875pla,,Маған қатты ұнады прям күшті филтірлер көр 😅😅,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3564
+kz03572,kazsandra,kas013775kas,,"Өте керемет, жинақы.",0,market,5,regex_negative_llm_spotchecked,1,0,,3566
+kz03587,kazsandra,gis001188gis,,"Намазхана керек Аэропортқа, намаз оқитын жер жоқ.",0,mapping,5,regex_negative_llm_spotchecked,1,0,,3581
+kz03597,kazsandra,pla109892pla,,Қазақша нұсқасында билет алу батырмасы жоқ. Қазақ тілінде шектеу бар. Мұндай қосымша керек емес,0,appstore,1,regex_negative_llm_spotchecked,1,0,,3591
+kz03621,kazsandra,pla134554pla,,Щещенамы пиздес екен гуглдагы порноны видео тусырып тиктокка салдым 8к просмотр жинады,1,appstore,5,regex_confirmed_by_llm,1,1,ru_pizd:пиздес,3615
+kz03623,kazsandra,pla110098pla,,Мүмкіндіктері шектеулі,0,appstore,1,regex_negative_llm_spotchecked,1,0,,3617
+kz03635,kazsandra,pla116085pla,,Маган вапще катты ұнады күшті маладцы шығарган адам 🧑 сапалы керекті,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3629
+kz03688,kazsandra,pla032884pla,,Блять нау шшс токтоп калп шыға береді теленрамнан,1,appstore,1,regex_confirmed_by_llm,1,1,ru_blya:блять,3682
+kz03691,kazsandra,pla065687pla,,Маған том ұнайды 2сі,0,appstore,1,regex_negative_llm_spotchecked,1,0,,3685
+kz03720,kazsandra,pla043543pla,,Өте керемет прлажение өте қатты ұнады талаптарыңыздан нұр жаусын Иншаллах,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3714
+kz03722,kazsandra,gis000336gis,,"Өте дәмді,мощный сочный бургерлері",0,mapping,4,regex_negative_llm_spotchecked,1,0,,3716
+kz03733,kazsandra,pla100573pla,,Маған қатты ұнайды! Shuinshbai Ainara!,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3727
+kz03734,kazsandra,pla085508pla,,Нұрдәулет мал ешак қотақ амшық,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:қотақ,3728
+kz03737,kazsandra,pla063539pla,,"Е мазгалар, өмірі істемейд и жалоб айта беред екенсіңдер, бəрі нехуёво істеп тұр",1,appstore,5,regex_confirmed_by_llm,1,1,ru_xuj:хуево,3731
+kz03762,kazsandra,pla071512pla,,маған өте қатты ұнады супер,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3756
+kz03770,kazsandra,pla024394pla,,"Кол центр 9999 2 сағат бойы звандадым, Ақерке деген қыз көтердіде, басқа операторға қосам деп, қойып тастады. Содан бір де бір консультант котермеді. Походу каспий банктің эрасы өшіп жатыр.",0,appstore,1,regex_negative_llm_spotchecked,1,0,,3764
+kz03776,kazsandra,pla064864pla,,ӨТЕ ПИЗДЕС КЕРЕМЕТ ОЙЫН ЕКЕН,1,appstore,5,regex_confirmed_by_llm,1,1,ru_pizd:пиздес,3770
+kz03780,kazsandra,pla065389pla,,Мысық ұйықтап атқанда ұрсаң блят дит,1,appstore,5,regex_confirmed_by_llm,1,1,ru_blya:блят,3774
+kz03783,kazsandra,pla096917pla,,Рекламадагы х кнопкасы басылмайды,0,appstore,1,regex_negative_llm_spotchecked,1,0,,3777
+kz03790,kazsandra,pla124794pla,,Отекеремет тек реклама дахуя,1,appstore,5,regex_confirmed_by_llm,1,1,ru_xuj:хуя,3784
+kz03793,kazsandra,pla078042pla,,Мал кірілмиді қотақ бас,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақ,3787
+kz03801,kazsandra,pla022926pla,,Каспи жаным Қазақстандағы еңңңң күшті предложение.Рахмет 💞,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3795
+kz03804,kazsandra,kas003746kas,,Қасты тез өсіреді екен.,0,market,5,regex_negative_llm_spotchecked,1,0,,3798
+kz03813,kazsandra,pla063689pla,,Жаман кредит алмандар,0,appstore,1,regex_negative_llm_spotchecked,1,0,,3807
+kz03833,kazsandra,pla016432pla,,Осынын кесырынен канша адам хайп куып мал болды деп озн тик ток тартып алганба 😂,0,appstore,1,regex_negative_llm_spotchecked,1,0,,3827
+kz03835,kazsandra,pla097755pla,,Қотақ ыски,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақ,3829
+kz03840,kazsandra,kas028244kas,,"Уақытынан ерте келді.Әзірге бәрі жақсы, аяқ өте жұмсақ.",0,market,5,regex_negative_llm_spotchecked,1,0,,3834
+kz03841,kazsandra,pla099400pla,,Котактын басына 60тиын алатын болган? Шешесин сигин 30тиын едигой пиздец оборзели гандоны итак уйде свет жок,1,appstore,1,regex_confirmed_by_llm,1,1,ru_pizd:пиздец|ru_gandon:гандоны|kk_qotaq:котактын,3835
+kz03844,kazsandra,gis003212gis,,"Актау аэропорт жумысшылары оз орындарын билмиди! Адаммен жжумыс жасап кормеген !! Ким пассажир Ким жумыс орында тур жумыстары жок ,кызмет корсету 0 !!!! Администрации адаммен жумыс жасауды билмиди!",0,mapping,1,regex_negative_llm_spotchecked,1,0,,3838
+kz03848,kazsandra,pla074504pla,,жəй қотақбас ойын,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақбас,3842
+kz03855,kazsandra,pla052967pla,,Көтің қысшы,1,appstore,1,regex_confirmed_by_llm,1,1,kk_kot:көтің,13
+kz03858,kazsandra,pla037141pla,,boq qoi mynau,1,appstore,1,regex_confirmed_by_llm,1,1,kk_boq:boq,3852
+kz03868,kazsandra,pla110159pla,,Қотақтын басы қатад амын,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:қотақтын,3862
+kz03889,kazsandra,pla055388pla,,Котак бас щщс ам бля еденицам қайда 900 еденицам күйіп кетті сенің кесіріңнен қотақбас қотақбас қотақбас қотақбас қотақбас қотақбас қотақбас қотақбас қотақбас қотақбас қотақбас қотақбас қотақбас қотақбас қотақбас қотақбас қотақбас қотақбас қотақбас қотақбас қотақбас қотақбас,1,appstore,1,regex_confirmed_by_llm,1,1,ru_blya:бля|kk_qotaq:котак,3883
+kz03896,kazsandra,pla037445pla,,Өте жаман ақпаратты жою мүмкін емес,0,appstore,2,regex_negative_llm_spotchecked,1,0,,3890
+kz03897,kazsandra,pla014153pla,,ватсп оте жаксы,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3891
+kz03903,kazsandra,pla091774pla,,қотақбас жаман не ойын қайсы доп тебеді 😡😡😡😡😡😡😡😡😡😡😡😡😡😡,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:қотақбас,3897
+kz03904,kazsandra,pla078209pla,,bet ekeni 👍👍👍👍👍👍скачаты👎👎🇹🇲🇹🇲🇹🇲🇹🇲🇹🇲🇹🇲,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3898
+kz03915,kazsandra,pla082947pla,,ДАЛБАИОП ҚОТАКПАС ОИЫН УНАМАД 😡😠😡😠 БУ ОИНДЫ ТАРПАНЫЗДАР,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:қотакпас,3909
+kz03921,kazsandra,pla127110pla,,Мен аман деп жазганда амыңды сігем деп шкты втф,1,appstore,5,regex_confirmed_by_llm,1,1,kk_sik:сігем|kk_am:амыңды,3915
+kz03923,kazsandra,pla023704pla,,каспи ужымына рахмет маган унайды ынгайлы ари онай,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3917
+kz03929,kazsandra,pla099890pla,,"Сұраққа жауап берілмиді,қате",0,appstore,1,regex_negative_llm_spotchecked,1,0,,3923
+kz03930,kazsandra,pla088485pla,,Қотақ ойын сука ам,1,appstore,1,regex_confirmed_by_llm,1,1,ru_suka:сука|kk_qotaq:қотақ,3924
+kz03932,kazsandra,pla070040pla,,Шешенин амын сигем,1,appstore,1,regex_confirmed_by_llm,1,1,kk_sik:сигем,3926
+kz03935,kazsandra,kit000802kit,,неге окылмайды. тындау керек емес Маган блять,1,bookstore,1,regex_confirmed_by_llm,1,1,ru_blya:блять,3929
+kz03936,kazsandra,pla085665pla,,Қотақпас қалай ойнайсың мына ойнды наху мынау админның қотағының шаригіма бля дым түсінбедім🤨👎👎👎👎👎👎👎👎👎,1,appstore,1,regex_confirmed_by_llm,1,1,ru_blya:бля|kk_qotaq:қотақпас,3930
+kz03941,kazsandra,pla030827pla,,👎👎👎👎👎👎👎👎👎боққа керегі жоқ сайт дұрыс жасамайды,1,appstore,1,regex_confirmed_by_llm,1,1,kk_boq:боққа,3935
+kz03949,kazsandra,pla121198pla,,Жақсы бірақ тағы әдемі пернетақта қосуыңызды өтінемін,0,appstore,4,regex_negative_llm_spotchecked,1,0,,3943
+kz03952,kazsandra,pla090376pla,,Бля ужас қой сука көтім тір етті нақу зайбал жазбаңдар әсіресе түнде ойнамаңдар,1,appstore,5,regex_confirmed_by_llm,1,1,ru_blya:бля|ru_suka:сука,3946
+kz03958,kazsandra,pla091759pla,,Өте күшті ойын аита алмадым•_•,0,appstore,5,regex_negative_llm_spotchecked,1,0,,3952
+kz03969,kazsandra,pla091680pla,,Қотақтың тасы и қотақтың амы и қотағымды жеме және далбаюп,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:қотақтың,3963
+kz03991,kazsandra,pla042274pla,,өте күшті бағдарлама,0,appstore,1,regex_negative_llm_spotchecked,1,0,,3985
+kz03999,kazsandra,map003831map,,"Менеджер жұмысын жақсы жасады бірақ Call-центрге автоотвечик қосып қойған, менеджердің нөмері келісім шартта көрсетілмеген енді қалай оларменен байланысамыз?",0,mapping,3,regex_negative_llm_spotchecked,1,0,,3993
+kz04022,kazsandra,pla092597pla,,Ұнамады физика жоқ 😔😔😔,0,appstore,1,regex_negative_llm_spotchecked,1,0,,4016
+kz04028,kazsandra,pla087910pla,,Өте өте керемет оиын деп тарткан едим котакбас оиын боп шыкты шшс,1,appstore,5,regex_confirmed_by_llm,1,1,kk_qotaq:котакбас,4022
+kz04063,kazsandra,pla007266pla,,Қотақпас ол қотақпас не қатат,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақпас,4057
+kz04064,kazsandra,kas018564kas,,"Жолдасыма сыйлық жасадым, ұнады. Палау басты дәмді болды. Кеңес беремін алуға.",0,market,5,regex_negative_llm_spotchecked,1,0,,4058
+kz04072,kazsandra,pla065103pla,,"Қызық емес, түк унаған жоқ👎👎👎👎өте қиын ойын.",0,appstore,1,regex_negative_llm_spotchecked,1,0,,4066
+kz04086,kazsandra,pla069520pla,,ебааааааа кұшті,1,appstore,5,llm_corrected,1,0,,4263
+kz04099,kazsandra,kas027236kas,,"Өте ыңғайлы, артқа құлай беретіндерге керемет зат, Каспиге рахмет, тез жеткізді, сапасы күшті.",0,market,5,regex_negative_llm_spotchecked,1,0,,4093
+kz04103,kazsandra,pla006747pla,,Неге маған орнатылмай жатыр ???,0,appstore,2,regex_negative_llm_spotchecked,1,0,,4097
+kz04112,kazsandra,pla073264pla,,Е қотақбастар неге маған бесплатна леон бермейсіндер 😡😡😡😡😡,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақбастар,4106
+kz04122,kazsandra,pla001011pla,,казакстан,0,appstore,1,regex_negative_llm_spotchecked,1,0,,4116
+kz04130,kazsandra,pla118999pla,,Маған осы программа ұнайды,0,appstore,5,regex_negative_llm_spotchecked,1,0,,4124
+kz04138,kazsandra,pla088786pla,,Менде тартып жатырмын қазір көреміз,0,appstore,1,regex_negative_llm_spotchecked,1,0,,4132
+kz04141,kazsandra,kas020125kas,,Тоңазтқыш қатты ұнады. Үлкен рахмет.,0,market,5,regex_negative_llm_spotchecked,1,0,,4135
+kz04143,kazsandra,pla085499pla,,Бұл ойын өтте керемет😘 неше түрлі түстер түстері ашық адамға жақсы әсер етеді😊 өлеңдеріде керемет😍 маған ұнады жаман👆 дегендердің аузы қисаисын 😌😌😌😌,0,appstore,5,regex_negative_llm_spotchecked,1,0,,4137
+kz04157,kazsandra,gis003241gis,,Бағасын төмендетеді,0,mapping,2,regex_negative_llm_spotchecked,1,0,,4151
+kz04165,kazsandra,pla043248pla,,Қотақбас қысқаша!,1,appstore,1,regex_confirmed_by_llm,1,1,kk_qotaq:қотақбас,4159
+kz04182,kazsandra,pla059857pla,,Nurel жол да,0,appstore,1,regex_negative_llm_spotchecked,1,0,,4176
+kz04187,kazsandra,pla129317pla,,Осыда мобильниді қалай қосады?,0,appstore,2,regex_negative_llm_spotchecked,1,0,,4181
+kz04197,kazsandra,kas002516kas,,"Керемет, өзіме ұнады.",0,market,5,regex_negative_llm_spotchecked,1,0,,4191
+kz04222,kazsandra,pla075293pla,,Топп🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵 Қазақтар алға,0,appstore,5,regex_negative_llm_spotchecked,1,0,,4216
+yt00010,youtube,Ugzde5gcc-r0aCIsshB4AaABAg,b6EUHwNAT_Q,Не боп кетті өзі,0,youtube,,regex_negative_llm_checked,2,0,,4233
+yt00016,youtube,Ugxqiiv60a_l6yCrdhJ4AaABAg,x_pFJJ7r_WA,Біз әлі дайындалып жатырмыз 😅😂😂😂,0,youtube,,regex_negative_llm_checked,2,0,,4238
+yt00021,youtube,UgwCf5R_FZUJ9ZDjh_14AaABAg,YU7oj5QUse8,Барсаның адекват жанкүйерімін.Бүкіл реалфандарды жеңіспен құттықтаймын түндегі ойында мойындаймын реал тактикалық тұрғыдан өте мықты болды.Моуриньо тренерский шахмат ойында Фликты ұтып алды.Ортада біліп тұр Педри Родримен таласып толк жоқ екенін бастапқы минуттардан флангтарды өте жақсы пайдаланды.,0,youtube,,llm_corrected,2,1,ru_pidor:педри,4243
+yt00031,youtube,Ugz1FNDvqPIrZMxGyzR4AaABAg,x_pFJJ7r_WA,"Шығын,шығын😢😢 Сабақ басталып қойды ғой.Енді зат алдыңыздарма?",0,youtube,,regex_negative_llm_checked,2,0,,4238
+yt00039,youtube,UgzKE8MO5xnnulmleMl4AaABAg,YU7oj5QUse8,8матчтын 2гана ұтып не қуанып жатсындар реал фандар 15 лч айтып жылайсындарго роналду бардада барса сіккен сол қуанбайақ қойындар,1,youtube,,regex_confirmed_by_llm,2,1,kk_sik:сіккен,4243
+yt00041,youtube,UgyrUc29yyQsrCFTnsp4AaABAg,ZdNyTBy2JBA,11000. Теңге 😢😢😅,0,youtube,,regex_negative_llm_checked,2,0,,4263
+yt00046,youtube,Ugxbku8Er5WW7UaunnF4AaABAg,PJcfAWVUMbQ,Мен кокада,0,youtube,,regex_negative_llm_checked,2,0,,4268
+yt00057,youtube,UgyqA9AtJdYklb82PlZ4AaABAg,JbP_eaHUqKY,Олжеке алдыда KIA SOLUTO ға неге осылай обзор жасамадың дөйдала тақия киіп шыға салдың қайтадан жақсылап обзор жасап берсең өтінішпен сенің тұрақты көрерменің.!!!,0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00066,youtube,Ugy91THUGw5dL0qUSMZ4AaABAg,x_pFJJ7r_WA,Анау пенал барелье емес па пеналдың ішінде сіздердің қарамастан тұр ғой сондай сіңілімізде екеумізде бар😊,0,youtube,,regex_negative_llm_checked,2,0,,4238
+yt00087,youtube,UgzQPrGCpFeXFwTwBx54AaABAg,ZdNyTBy2JBA,"“Емааа ебаааать” не деген сөз? Сіз қазақша сөйлейсіз, бірақ орысша боқ сөз атайсыз 🤣",1,youtube,,regex_confirmed_by_llm,2,1,ru_eb:ебать|kk_boq:боқ,4263
+yt00094,youtube,Ugy5s5HVzLNCHoPpyTp4AaABAg,JbP_eaHUqKY,Күтеміз Олжеке өрлей бер,0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00113,youtube,Ugw4zpKoJftwd9RxtYh4AaABAg,JbP_eaHUqKY,бағасы лайық емес әрине,0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00115,youtube,UgzYg38vaTZCxDiO2OZ4AaABAg,JbP_eaHUqKY,Жәй пікір көп болсын деп жазып кете салдым,0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00131,youtube,UgwM0l0DYxGveoYorFl4AaABAg,YU7oj5QUse8,"Барса 5:2 ұтқанда ойтіп қуанбап еді, Бірақ реалға жарасады бір ұтса болдығо,соны 10жыл айтасыңдар індеріңде тығылып 😂",0,youtube,,regex_negative_llm_checked,2,0,,4243
+yt00147,youtube,UgzKtUJqjJ2xci1Wcdh4AaABAg,JbP_eaHUqKY,Керемет пайдалы қазақша контент,0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00171,youtube,UgzyDWhwjV-wMyPlAvd4AaABAg,JbP_eaHUqKY,Өркенің өссін бауырым сен нағыз алаш аманаты екенсің,0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00188,youtube,UgwU2IktBFu85SBWQbJ4AaABAg,JbP_eaHUqKY,Олжас👍басқа шолу жасайтындар ұйхтадығой 100%Қазақтар ешкімді көр мейлі ау менің ойымша.,0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00191,youtube,UgzcpcqCEqzU7uch3tN4AaABAg,JbP_eaHUqKY,Олжас сұрақ мындай осыны мінген дұрысба әлде 10жыл жүрген к7 дұрысба,0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00212,youtube,UgzZlSP_x8KqMJcEKNx4AaABAg,ZdNyTBy2JBA,13:17 осы палаткада нұрдаулет ағаларда бар,0,youtube,,regex_negative_llm_checked,2,0,,4263
+yt00217,youtube,Ugy5wdTB9TAioOsUAUN4AaABAg,YU7oj5QUse8,"Барсаға сәттілік жетпей қалды,😳 немесе сатып алды.🤷🏻‍♂️А так Барса жігіттері мықты, мұны мойындау керек👍🤗😎",0,youtube,,regex_negative_llm_checked,2,0,,4243
+yt00218,youtube,Ugx07555aSz0AKP2vpx4AaABAg,JbP_eaHUqKY,Қобыланым(кобальт) өңес артық шшс,1,youtube,,regex_confirmed_by_llm,2,1,abbr_shshs:шшс,4279
+yt00240,youtube,UgzL9-f_dHqYBQmvMAJ4AaABAg,uXQO3EsBs0c,1боқ 1қарын майды шіртіпті дегенғо 1адамның кесірі бүкіл қаланы құртты,0,youtube,,llm_corrected,2,1,kk_boq:боқ,4458
+yt00244,youtube,Ugzj9qVwV7ygnu3WDAN4AaABAg,JbP_eaHUqKY,Қазақ тілді қолдайық ❤,0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00245,youtube,UgwLTSyoGtXh0Z8zu2J4AaABAg,ZdNyTBy2JBA,Еба күшті😂,1,youtube,,regex_confirmed_by_llm,2,1,ru_eba:еба,4263
+yt00247,youtube,UgyAMfXHxi0Su-ob6iZ4AaABAg.AcPLlyiYm1CAcPy7pdyWHL,YU7oj5QUse8,​<USER> екенсің. Жәй футбол емеспа😂,0,youtube,,regex_negative_llm_checked,2,0,,4243
+yt00252,youtube,UgxAFeuTNZ7AoMYPYy14AaABAg,eds8OUiLNwk,Әлеикүмуссалам,0,youtube,,regex_negative_llm_checked,2,0,,4470
+yt00253,youtube,UgyD0KYDvna3MKTfpe14AaABAg,b6EUHwNAT_Q,Брат неге даусынды баяғыдай қоймадын сол зор еды,0,youtube,,regex_negative_llm_checked,2,0,,4233
+yt00256,youtube,UgyJGYLQ7-FH2Ega47p4AaABAg.A4Q7R8IUHPTA4QGMMm5ref,11yEXfpF0PM,"<USER>, Сізге керемет сауда тілейміз! 👍",0,youtube,,regex_negative_llm_checked,2,0,,4474
+yt00272,youtube,Ugw0hfi6gC3M9sRikFZ4AaABAg.ATMyOJsCviCATNBDKpT6-4,JbP_eaHUqKY,Олжеке тек алға👍✊💪,0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00305,youtube,Ugzd_98n_eYBmVIf5MB4AaABAg,JbP_eaHUqKY,Келесі жолы BYD QIN L ге обзор жасап берші,0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00306,youtube,UgwlRj4OIgZUZVTFdGZ4AaABAg,x_pFJJ7r_WA,Ебааа томидың рубашкасы менің қарындасымдікімен бірдеййййй 1 інші,1,youtube,,regex_confirmed_by_llm,2,1,ru_eba:еба,4238
+yt00307,youtube,UgzcEKMOxfeb7HPOz7d4AaABAg,x_pFJJ7r_WA,2:30 Томи дікі әдемі❤,0,youtube,,regex_negative_llm_checked,2,0,,4238
+yt00323,youtube,Ugy0vdE4hmp8jwTkMVx4AaABAg,JbP_eaHUqKY,Бляяя олжеке прям нақты түсіндіріп бередғо зорееей,1,youtube,,regex_confirmed_by_llm,2,1,ru_blya:бля,4279
+yt00324,youtube,UgxPzE_kzf0LH6q08-J4AaABAg.ATMbE9CBQUDATMfIBxtjx8,JbP_eaHUqKY,"Далбан немнеге украинаны қолдап жатырсын,кайдан шыкканынды ұмытып калдынба или",1,youtube,,regex_confirmed_by_llm,2,1,ru_dolboeb:далбан,4279
+yt00330,youtube,UgyOqB9Pq19GtRQ2J-l4AaABAg,JbP_eaHUqKY,қазақ тілінде сөз саптауы қалай? сындырып тастайды ғой ризамын,0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00336,youtube,Ugzfvms0J6qNmkVstmx4AaABAg,JbP_eaHUqKY,Алға қазақ тілді контент,0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00337,youtube,Ugxfjgm2pL3K2Yss6tF4AaABAg,JbP_eaHUqKY,Ассалаумалейкум Олжас аға,0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00341,youtube,UgzSt3j29sE2J2Qx2vt4AaABAg.AMz9RJJ_Z3TAN06q-5iOtd,b6EUHwNAT_Q,Бляя дәл өзіго тусынбей кеттікко ішіп алып жазғанба🤣🤣,1,youtube,,regex_confirmed_by_llm,2,1,ru_blya:бляя,4233
+yt00344,youtube,UgyuQZtZeKnGp1e7e_14AaABAg,11yEXfpF0PM,😂😂😂каспи магазин мәә,0,youtube,,regex_negative_llm_checked,2,0,,4474
+yt00348,youtube,Ugw0hfi6gC3M9sRikFZ4AaABAg,JbP_eaHUqKY,"Қазақша арналар дами берсін, аумин. Елде қымбатшылық, кедейшілік, жемқорлық жүйе. Қорытынды елде қылмыс көп, ажырасу көп, адам өлімі көп. Халық билікті өзінің қолына алуы керек және әділ үкімет құру керек сонда барлық мәселе ретімен шешіледі. Саясатты білмеу, әділетсіздікпен күреспеу, ұрпақты аяқ, қолын жіпсіз байлап жауға бергенмен бірдей. Оян қазақтар. АЛЛАҺУ АКБАР.",0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00350,youtube,UgwZa02a0aUp-r1Smzt4AaABAg,YU7oj5QUse8,Барсаға не болды,0,youtube,,regex_negative_llm_checked,2,0,,4243
+yt00351,youtube,UgyESF0RouYR4d0iExx4AaABAg,eds8OUiLNwk,Туркия мына ойынымен Қазақстанға жолықпасын😮😮😮 Тең ойнап турғо қонақта жүрип,0,youtube,,regex_negative_llm_checked,2,0,,4470
+yt00368,youtube,UgzS3UUvwCPspask9SZ4AaABAg.ALvulokbJAKALxZ5_XBemI,hjNoZjZURZA,"<USER>, Сәлеметсіз бе! Ұнағанына қуаныштымыз 😊 (Сіздің #KaspiГид Дмитрий)",0,youtube,,regex_negative_llm_checked,2,0,,4581
+yt00370,youtube,Ugx_h8VjqLLGHucRIpJ4AaABAg,PJcfAWVUMbQ,Мен гохадан келдім,0,youtube,,regex_negative_llm_checked,2,0,,4268
+yt00425,youtube,UgxKn6gOQQgO0GoJVM94AaABAg.AMwEdeMQQQgAbInYcF3-97,b6EUHwNAT_Q,Бүр түрлі болса көрме,0,youtube,,regex_negative_llm_checked,2,0,,4233
+yt00439,youtube,UgyyxuBhRCCIxHn3FVt4AaABAg,JbP_eaHUqKY,Авариялық жағдайларда есігі блогқа түріп шарманда болмайма,0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00442,youtube,UgxZjrkGwVbUBMfX7jF4AaABAg,ZdNyTBy2JBA,Біде қоолданамыз тему арзаан,0,youtube,,regex_negative_llm_checked,2,0,,4263
+yt00444,youtube,UgzXQtQc7P8X77kpnZ94AaABAg,eds8OUiLNwk,Бір ғана нағыз француз ойнапты ғой Францияда 😅,0,youtube,,regex_negative_llm_checked,2,0,,4470
+yt00447,youtube,UgzfvnjG6WwbaBCJ0fV4AaABAg,JbP_eaHUqKY,987 ші😂,0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00465,youtube,Ugwd-S4zLebGiyEyC5B4AaABAg,b6EUHwNAT_Q,ема бул кино емес біреу ұйқыдан тұрып түсін жазғанғои😅,0,youtube,,regex_negative_llm_checked,2,0,,4233
+yt00469,youtube,UgyOdZvmkUSQG3pEzqt4AaABAg,ZdNyTBy2JBA,Ана футболканың бемвсы хит қоо,0,youtube,,regex_negative_llm_checked,2,0,,4263
+yt00474,youtube,UgwEkNzhBRBmo6f-th94AaABAg,eds8OUiLNwk,Қазақстан Түркия біргеміз 😂,0,youtube,,regex_negative_llm_checked,2,0,,4470
+yt00477,youtube,UgzQxp_gUw9m6Xww6r14AaABAg,JbP_eaHUqKY,"Бағасы қымбат екен. Өткен айда салонға бардым әкеме алсам деп. Крассоверлері мүлдем қымбат екен. Ойлана келе, камри 75 апердім әкеме. Ескі болса да осы марканың крассоверлерінің құнына шамалас бағаға. Бензин тұтынуы 5 литр емес қала ішінде 6-7 литр шамасында. Тест драйвқа алып мініп көрдім және яндекс шақырып дәл осы көлік пен де жүріп көрдім. Такисис ағадан да сұрадым қалай десем, енді кобольттан дұрысырақ деді болды. Бірақ бағасы коболттан әлде қайда қымбат. бәрі коболттан дұрыстау дейді. Енді ойлан коболт қанша тұрады енді мынау қанша тұрады. Коболттан сәлақ әдемі болғаны үшін 12-14 лям төлеп ақымақсыңба?",0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00512,youtube,UgzH_AuCP2JWxSb4R154AaABAg.AdFw2kXgq5_AdGSLj2MkS9,eds8OUiLNwk,Өтіну айтпа,0,youtube,,regex_negative_llm_checked,2,0,,4470
+yt00521,youtube,UgwRFHd-qUDMPrVgtWh4AaABAg,JbP_eaHUqKY,Шынымен телефонда заставка 13 жолақ ту ма?,0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00575,youtube,UgwD7wCuiDOZ6CHhK-d4AaABAg,ZdNyTBy2JBA,Неше күде келеді,0,youtube,,regex_negative_llm_checked,2,0,,4263
+yt00577,youtube,UgzH_AuCP2JWxSb4R154AaABAg.AdFw2kXgq5_AdJsjs-CzqU,eds8OUiLNwk,Ешқашан есепті коментке жазбааа брат,0,youtube,,regex_negative_llm_checked,2,0,,4470
+yt00578,youtube,UgzX6zjTaGnGdXReTdx4AaABAg,mXDo2qbRBH8,Ана қыз жәлеп ба әр еркек ке бара бертын😂,1,youtube,,regex_confirmed_by_llm,2,1,kk_zhalep:жәлеп,4783
+yt00598,youtube,UgwhXhN6fuyKPIZWA1V4AaABAg,JbP_eaHUqKY,Preface түсірші,0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00611,youtube,UgyQsM_hkeFFUEpurkp4AaABAg,JbP_eaHUqKY,Шолу зор шыққан екен 👍🔥🔥🔥,0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00624,youtube,UgyNQyYc0nxLdhWjMal4AaABAg,JbP_eaHUqKY,"Олжеке, BYD Qin L туралы түсірсең дұрыс болар еді!)",0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00628,youtube,UgzJ5_jWBJEVOWSriIN4AaABAg,eds8OUiLNwk,Түркияны Арда сүйреп жүр екен ғой қалғандары ағаш қолдарынан ештеңе келмейд Ардаға сенед только Арда Реалдын аңызы болад келешекте 🎉🎉🎉,0,youtube,,regex_negative_llm_checked,2,0,,4470
+yt00646,youtube,UgzbsaNHcOAU06gDDUp4AaABAg,ZdNyTBy2JBA,"Бізде meмu meмu дан заказ бердік мен сумка,орамжіп,документ салатын алдық",0,youtube,,regex_negative_llm_checked,2,0,,4263
+yt00652,youtube,UgxOIjKN6mAWawJpjIV4AaABAg,JbP_eaHUqKY,Бензин да тоқта саласынба сонда,0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00676,youtube,UgxL8Xsl0seiHmU7eP94AaABAg,JbP_eaHUqKY,"seal 05- неге жаңасын емес ескі destroyer, или жаңа модельге лайық емес деп ойлайды ма?",0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00682,youtube,UgwbtyAMJb8RDxPiVCd4AaABAg,ZdNyTBy2JBA,Ару қалай прасакотка кіру керек ол үшін бірінші гугылға кіру керек пе,0,youtube,,regex_negative_llm_checked,2,0,,4263
+yt00686,youtube,UgwDNKc5H1Fv2L-yrpR4AaABAg,JbP_eaHUqKY,Керемет Қазақ тілінде жеткіз👍,0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00695,youtube,UgxTYvxU6aLowME9WWp4AaABAg,x_pFJJ7r_WA,3айда алматыға бардыммм..,0,youtube,,regex_negative_llm_checked,2,0,,4238
+yt00728,youtube,UgzHS7r-nNa_J2e6-5Z4AaABAg,YU7oj5QUse8,Ай бляяя Барсаға келеси ойында сәттилик.😢😮,1,youtube,,regex_confirmed_by_llm,2,1,ru_blya:бля,4243
+yt00738,youtube,Ugy8shd7bd-4NTOcNKJ4AaABAg,x_pFJJ7r_WA,Білім күні құтты болсын ұстаздар мен оқушылар 🥺 Қазақстан мектеп басталды,0,youtube,,regex_negative_llm_checked,2,0,,4238
+yt00743,youtube,Ugw9euXFlHyQMpDK1zx4AaABAg,JbP_eaHUqKY,"Бұзылып қалса, қалай жөндейді бұны СТО шник Дяд Ваня",0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00744,youtube,UgzSNU3W-fwNOXw9o_94AaABAg,JbP_eaHUqKY,Олжас jetour x50 түсіресіңба,0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00750,youtube,Ugxdnz3Yq6SJHmPmtZx4AaABAg,JbP_eaHUqKY,Ассалауалекум BYD QIN L көрсетсеңіз жақсы болар еді,0,youtube,,regex_negative_llm_checked,2,0,,4279
+yt00753,youtube,UgwTGWVvnmGoQaMcKo94AaABAg,eds8OUiLNwk,Реалдың ойыншылары Мбаппе мен Гюлер бір-бiрiне қарсы ойнаған ба??,0,youtube,,regex_negative_llm_checked,2,0,,4470
+yt00823,youtube,Ugy8H0KjwBvz4NYnwZd4AaABAg,ZdNyTBy2JBA,Мен ❤ мақсат,0,youtube,,regex_negative_llm_checked,2,0,,4263
+yt00828,youtube,UgwJGxrQIL4GTasVC714AaABAg,YU7oj5QUse8,Соңғы 7 эл классикода бір рет болсада ұттау әйтеуир 😅,0,youtube,,regex_negative_llm_checked,2,0,,4243
